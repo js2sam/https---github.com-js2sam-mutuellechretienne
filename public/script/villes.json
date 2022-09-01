@@ -1,0 +1,1327 @@
+[{
+        "ville": [{
+            "nom": "abidjan",
+            "commune": [{
+                    "nom": "abobo",
+                    "quartier": [{
+                        "nom": "value1"
+                    }]
+                },
+                {
+                    "nom": "adjame",
+                    "quartier": [{
+                        "nom": "value1"
+                    }]
+                },
+                {
+                    "nom": "anyama",
+                    "quartier": [{
+                        "nom": "value1"
+                    }]
+                },
+                {
+                    "nom": "attécoubé",
+                    "quartier": [{
+                        "nom": "value1"
+                    }]
+                },
+                {
+                    "nom": "bingerville",
+                    "quartier": [{
+                        "nom": "value1"
+                    }]
+                },
+                {
+                    "nom": "cocody",
+                    "quartier": [{
+                        "nom": "value1"
+                    }]
+                },
+                {
+                    "nom": "koumassi",
+                    "quartier": [{
+                        "nom": "value1"
+                    }]
+                },
+                {
+                    "nom": "marcory",
+                    "quartier": [{
+                            "nom": "gfci"
+                        },
+                        {
+                            "nom": "tsf"
+                        },
+                        {
+                            "nom": "gnagoua"
+                        },
+                        {
+                            "nom": "zone 4"
+                        }
+                    ]
+                },
+                {
+                    "nom": "plateau",
+                    "quartier": [{
+                        "nom": "plateau"
+                    }]
+                },
+                {
+                    "nom": "port bouët",
+                    "quartier": [{
+                        "nom": "port bouët"
+                    }]
+                },
+                {
+                    "nom": "treichville",
+                    "quartier": [{
+                        "nom": "treichville"
+                    }]
+                },
+                {
+                    "nom": "songon",
+                    "quartier": [{
+                        "nom": "songon"
+                    }]
+                },
+                {
+                    "nom": "yopougon",
+                    "quartier": [{
+                            "nom": "andokoi"
+                        },
+                        {
+                            "nom": "attie"
+                        },
+                        {
+                            "nom": "sogephia"
+                        },
+                        {
+                            "nom": "selmer"
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "abengourou",
+            "commune": [{
+                "nom": "abengourou",
+                "quartier": [{
+                    "nom": "abengourou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "aboisso",
+            "commune": [{
+                "nom": "aboisso",
+                "quartier": [{
+                    "nom": "aboisso"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "adiaké",
+            "commune": [{
+                "nom": "adiaké",
+                "quartier": [{
+                    "nom": "adiaké"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "adzopé",
+            "commune": [{
+                "nom": "adzopé",
+                "quartier": [{
+                    "nom": "adzopé"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "agboville",
+            "commune": [{
+                "nom": "agboville",
+                "quartier": [{
+                    "nom": "agboville"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "agnibilékrou",
+            "commune": [{
+                "nom": "agnibilékrou",
+                "quartier": [{
+                    "nom": "agnibilékrou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "akoupé",
+            "commune": [{
+                "nom": "akoupé",
+                "quartier": [{
+                    "nom": "akoupé"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "alépé",
+            "commune": [{
+                "nom": "alépé",
+                "quartier": [{
+                    "nom": "alépé"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "arrah",
+            "commune": [{
+                "nom": "arrah",
+                "quartier": [{
+                    "nom": "arrah"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "attiégouakro",
+            "commune": [{
+                "nom": "attiégouakro",
+                "quartier": [{
+                    "nom": "attiégouakro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bangolo",
+            "commune": [{
+                "nom": "bangolo",
+                "quartier": [{
+                    "nom": "bangolo"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "béoumi",
+            "commune": [{
+                "nom": "béoumi",
+                "quartier": [{
+                    "nom": "béoumi"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "béttié",
+            "commune": [{
+                "nom": "béttié",
+                "quartier": [{
+                    "nom": "béttié"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "biankouma",
+            "commune": [{
+                "nom": "biankouma",
+                "quartier": [{
+                    "nom": "biankouma"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bingerville",
+            "commune": [{
+                "nom": "bingerville",
+                "quartier": [{
+                    "nom": "bingerville"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bloléquin",
+            "commune": [{
+                "nom": "bloléquin",
+                "quartier": [{
+                    "nom": "bloléquin"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bocanda",
+            "commune": [{
+                "nom": "bocanda",
+                "quartier": [{
+                    "nom": "bocanda"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bondoukou",
+            "commune": [{
+                "nom": "bondoukou",
+                "quartier": [{
+                    "nom": "bondoukou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bongouanou",
+            "commune": [{
+                "nom": "bongouanou",
+                "quartier": [{
+                    "nom": "bongouanou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bonoua",
+            "commune": [{
+                "nom": "bonoua",
+                "quartier": [{
+                    "nom": "bonoua"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "botro",
+            "commune": [{
+                "nom": "botro",
+                "quartier": [{
+                    "nom": "botro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bouaflé",
+            "commune": [{
+                "nom": "bouaflé",
+                "quartier": [{
+                    "nom": "bouaflé"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bouaké",
+            "commune": [{
+                "nom": "bouaké",
+                "quartier": [{
+                    "nom": "bouaké"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "bouna",
+            "commune": [{
+                "nom": "bouna",
+                "quartier": [{
+                    "nom": "bouna"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "boundiali",
+            "commune": [{
+                "nom": "boundiali",
+                "quartier": [{
+                    "nom": "boundiali"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "buyo",
+            "commune": [{
+                "nom": "buyo",
+                "quartier": [{
+                    "nom": "buyo"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "dabakala",
+            "commune": [{
+                "nom": "dabakala",
+                "quartier": [{
+                    "nom": "dabakala"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "dabou",
+            "commune": [{
+                "nom": "dabou",
+                "quartier": [{
+                    "nom": "dabou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "daloa",
+            "commune": [{
+                "nom": "daloa",
+                "quartier": [{
+                    "nom": "daloa"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "danané",
+            "commune": [{
+                "nom": "danané",
+                "quartier": [{
+                    "nom": "danané"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "daoukro",
+            "commune": [{
+                "nom": "daoukro",
+                "quartier": [{
+                    "nom": "daoukro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "dianra",
+            "commune": [{
+                "nom": "dianra",
+                "quartier": [{
+                    "nom": "dianra"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "didievi",
+            "commune": [{
+                "nom": "didievi",
+                "quartier": [{
+                    "nom": "didievi"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "dikodougou",
+            "commune": [{
+                "nom": "dikodougou",
+                "quartier": [{
+                    "nom": "dikodougou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "dimbokro",
+            "commune": [{
+                "nom": "dimbokro",
+                "quartier": [{
+                    "nom": "dimbokro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "divo",
+            "commune": [{
+                "nom": "divo",
+                "quartier": [{
+                    "nom": "divo"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "djekanou",
+            "commune": [{
+                "nom": "djekanou",
+                "quartier": [{
+                    "nom": "djekanou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "doropo",
+            "commune": [{
+                "nom": "doropo",
+                "quartier": [{
+                    "nom": "doropo"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "duékoué",
+            "commune": [{
+                "nom": "duékoué",
+                "quartier": [{
+                    "nom": "duékoué"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "facobly",
+            "commune": [{
+                "nom": "facobly",
+                "quartier": [{
+                    "nom": "facobly"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "ferkessédougou",
+            "commune": [{
+                "nom": "ferkessédougou",
+                "quartier": [{
+                    "nom": "ferkessédougou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "fresco",
+            "commune": [{
+                "nom": "fresco",
+                "quartier": [{
+                    "nom": "fresco"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "gagnoa",
+            "commune": [{
+                "nom": "gagnoa",
+                "quartier": [{
+                    "nom": "gagnoa"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "gbeleban",
+            "commune": [{
+                "nom": "gbeleban",
+                "quartier": [{
+                    "nom": "gbeleban"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "grand-bassam",
+            "commune": [{
+                "nom": "grand-bassam",
+                "quartier": [{
+                    "nom": "grand-bassam"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "grand-lahou",
+            "commune": [{
+                "nom": "grand-lahou",
+                "quartier": [{
+                    "nom": "grand-lahou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "guéyo",
+            "commune": [{
+                "nom": "guéyo",
+                "quartier": [{
+                    "nom": "guéyo"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "guiglo",
+            "commune": [{
+                "nom": "guiglo",
+                "quartier": [{
+                    "nom": "value1"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "guitry",
+            "commune": [{
+                "nom": "guitry",
+                "quartier": [{
+                    "nom": "guitry"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "hiré",
+            "commune": [{
+                "nom": "hiré",
+                "quartier": [{
+                    "nom": "hiré"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "issia",
+            "commune": [{
+                "nom": "issia",
+                "quartier": [{
+                    "nom": "issia"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "jacqueville",
+            "commune": [{
+                "nom": "jacqueville",
+                "quartier": [{
+                    "nom": "jacqueville"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "kani",
+            "commune": [{
+                "nom": "kani",
+                "quartier": [{
+                    "nom": "kani"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "kaniasso",
+            "commune": [{
+                "nom": "kaniasso",
+                "quartier": [{
+                    "nom": "kaniasso"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "katiola",
+            "commune": [{
+                "nom": "katiola",
+                "quartier": [{
+                    "nom": "katiola"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "kong",
+            "commune": [{
+                "nom": "kong",
+                "quartier": [{
+                    "nom": "kong"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "korhogo",
+            "commune": [{
+                "nom": "korhogo",
+                "quartier": [{
+                    "nom": "korhogo"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "koro",
+            "commune": [{
+                "nom": "koro",
+                "quartier": [{
+                    "nom": "koro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "kouassi-kouassikro",
+            "commune": [{
+                "nom": "kouassi-kouassikro",
+                "quartier": [{
+                    "nom": "kouassi-kouassikro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "kouibly",
+            "commune": [{
+                "nom": "kouibly",
+                "quartier": [{
+                    "nom": "kouibly"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "koun fao",
+            "commune": [{
+                "nom": "koun fao",
+                "quartier": [{
+                    "nom": "koun fao"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "kounahiri",
+            "commune": [{
+                "nom": "kounahiri",
+                "quartier": [{
+                    "nom": "kounahiri"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "kouto",
+            "commune": [{
+                "nom": "kouto",
+                "quartier": [{
+                    "nom": "kouto"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "lakota",
+            "commune": [{
+                "nom": "lakota",
+                "quartier": [{
+                    "nom": "lakota"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "m'bahiakro",
+            "commune": [{
+                "nom": "m'bahiakro",
+                "quartier": [{
+                    "nom": "m'bahiakro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "m'batto",
+            "commune": [{
+                "nom": "m'batto",
+                "quartier": [{
+                    "nom": "m'batto"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "m'bengué",
+            "commune": [{
+                "nom": "m'bengué",
+                "quartier": [{
+                    "nom": "m'bengué"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "madinani",
+            "commune": [{
+                "nom": "madinani",
+                "quartier": [{
+                    "nom": "madinani"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "man",
+            "commune": [{
+                "nom": "man",
+                "quartier": [{
+                    "nom": "man"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "mankono",
+            "commune": [{
+                "nom": "mankono",
+                "quartier": [{
+                    "nom": "mankono"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "méagui",
+            "commune": [{
+                "nom": "méagui",
+                "quartier": [{
+                    "nom": "méagui"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "minignan",
+            "commune": [{
+                "nom": "minignan",
+                "quartier": [{
+                    "nom": "minignan"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "nassian",
+            "commune": [{
+                "nom": "nassian",
+                "quartier": [{
+                    "nom": "nassian"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "niakaramandougou",
+            "commune": [{
+                "nom": "niakaramandougou",
+                "quartier": [{
+                    "nom": "niakaramandougou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "n'zianoua",
+            "commune": [{
+                "nom": "n'zianoua",
+                "quartier": [{
+                    "nom": "n'zianoua"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "odienne",
+            "commune": [{
+                "nom": "odienne",
+                "quartier": [{
+                    "nom": "odienne"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "ouangolodougou",
+            "commune": [{
+                "nom": "ouangolodougou",
+                "quartier": [{
+                    "nom": "ouangolodougou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "ouaninou",
+            "commune": [{
+                "nom": "ouaninou",
+                "quartier": [{
+                    "nom": "ouaninou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "oumé",
+            "commune": [{
+                "nom": "oumé",
+                "quartier": [{
+                    "nom": "oumé"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "prikro",
+            "commune": [{
+                "nom": "prikro",
+                "quartier": [{
+                    "nom": "prikro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "sakassou",
+            "commune": [{
+                "nom": "sakassou",
+                "quartier": [{
+                    "nom": "value1"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "samatiguila",
+            "commune": [{
+                "nom": "samatiguila",
+                "quartier": [{
+                    "nom": "samatiguila"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "san pédro",
+            "commune": [{
+                "nom": "san pédro",
+                "quartier": [{
+                    "nom": "san pédro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "sandegue",
+            "commune": [{
+                "nom": "sandegue",
+                "quartier": [{
+                    "nom": "sandegue"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "sassandra",
+            "commune": [{
+                "nom": "sassandra",
+                "quartier": [{
+                    "nom": "sassandra"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "séguéla",
+            "commune": [{
+                "nom": "séguéla",
+                "quartier": [{
+                    "nom": "séguéla"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "séguélon",
+            "commune": [{
+                "nom": "séguélon",
+                "quartier": [{
+                    "nom": "séguélon"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "sikensi",
+            "commune": [{
+                "nom": "sikensi",
+                "quartier": [{
+                    "nom": "sikensi"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "sinématiali",
+            "commune": [{
+                "nom": "sinématiali",
+                "quartier": [{
+                    "nom": "sinématiali"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "sinfra",
+            "commune": [{
+                "nom": "sinfra",
+                "quartier": [{
+                    "nom": "sinfra"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "sipilou",
+            "commune": [{
+                "nom": "sipilou",
+                "quartier": [{
+                    "nom": "sipilou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "soubré",
+            "commune": [{
+                "nom": "soubré",
+                "quartier": [{
+                    "nom": "soubré"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "taabo",
+            "commune": [{
+                "nom": "taabo",
+                "quartier": [{
+                    "nom": "taabo"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "tabou",
+            "commune": [{
+                "nom": "tabou",
+                "quartier": [{
+                    "nom": "tabou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "taï",
+            "commune": [{
+                "nom": "taï",
+                "quartier": [{
+                    "nom": "taï"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "tanda",
+            "commune": [{
+                "nom": "tanda",
+                "quartier": [{
+                    "nom": "tanda"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "téhini",
+            "commune": [{
+                "nom": "téhini",
+                "quartier": [{
+                    "nom": "téhini"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "tengrela",
+            "commune": [{
+                "nom": "tengrela",
+                "quartier": [{
+                    "nom": "tengrela"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "tiapoum",
+            "commune": [{
+                "nom": "tiapoum",
+                "quartier": [{
+                    "nom": "tiapoum"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "tiassalé",
+            "commune": [{
+                "nom": "tiassalé",
+                "quartier": [{
+                    "nom": "tiassalé"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "tiébissou",
+            "commune": [{
+                "nom": "tiébissou",
+                "quartier": [{
+                    "nom": "tiébissou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "touba",
+            "commune": [{
+                "nom": "touba",
+                "quartier": [{
+                    "nom": "touba"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "toulepleu",
+            "commune": [{
+                "nom": "toulepleu",
+                "quartier": [{
+                    "nom": "toulepleu"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "toumodi",
+            "commune": [{
+                "nom": "toumodi",
+                "quartier": [{
+                    "nom": "toumodi"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "transua",
+            "commune": [{
+                "nom": "transua",
+                "quartier": [{
+                    "nom": "transua"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "vavoua",
+            "commune": [{
+                "nom": "vavoua",
+                "quartier": [{
+                    "nom": "vavoua"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "yakassé-attobrou",
+            "commune": [{
+                "nom": "yakassé-attobrou",
+                "quartier": [{
+                    "nom": "yakassé-attobrou"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "yamoussoukro",
+            "commune": [{
+                "nom": "yamoussoukro",
+                "quartier": [{
+                    "nom": "yamoussoukro"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "zouan-hounien",
+            "commune": [{
+                "nom": "zouan-hounien",
+                "quartier": [{
+                    "nom": "zouan-hounien"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "zoukougbeu",
+            "commune": [{
+                "nom": "zoukougbeu",
+                "quartier": [{
+                    "nom": "zoukougbeu"
+                }]
+            }]
+        }]
+    },
+    {
+        "ville": [{
+            "nom": "zuénoula",
+            "commune": [{
+                "nom": "zuénoula",
+                "quartier": [{
+                    "nom": "zuénoula"
+                }]
+            }]
+        }]
+    }
+
+]

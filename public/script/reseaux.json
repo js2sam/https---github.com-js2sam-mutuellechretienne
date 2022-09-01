@@ -1,0 +1,3404 @@
+[
+    {
+        "commune": "ABOBO",
+        "nom": "Centre Médical Notre Dame de Fatima",
+        "type": "Soins ambulatoires",
+        "localisation": "Entre la Pharmacie de la mairie et le Centre Culturel",
+        "contact": "01 02 09 44 39 \/ 07 07 72 03 51",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 11:17:18"
+    },
+    {
+        "nom": "Centre Médico-Chirurgical de la Clémence Rahma",
+        "commune": "ABOBO",
+        "localisation": "Voie express Abobo Anyama, Mosquée Blanche - Avocatier",
+        "type": "Soins ambulatoires",
+        "contact": "07 07 89 47 94 \/ 07 07 49 46 73 \/ 01 43 19 19 00",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médico-chirurgical Prospérité",
+        "commune": "ABOBO",
+        "localisation": "Abobo Sogefiha, Carrefour Joke, voie du 15ème Arr, Face à la BICICI",
+        "type": "Soins ambulatoires",
+        "contact": "07 47 67 64 66 \/ 07 57 28 58 28",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Grande Clinique Du Dokui",
+        "commune": "ABOBO",
+        "localisation": "Route du Zoo, face CIE - Aboboté",
+        "type": "Soins ambulatoires",
+        "contact": "01 01 40 75 10\/ 05 05 94 18 18\/ 01 03 90 41 22 ",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "La nouvelle Clinique Médico-Chirurgicale La Rose Des Savanes",
+        "commune": "ABOBO",
+        "localisation": "Plateau Dokui, Route du Mahou, Face à l'entrée de l'église Ste Monique",
+        "type": "Soins ambulatoires",
+        "contact": "01 02 02 48 39 \/ 27 22 50 54 46 \/ 27 24 39 86 42 ",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Polyclinique Centrale d’Abobo",
+        "commune": "ABOBO",
+        "localisation": "Route du Zoo, Carrefour Abobo Té",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 50 34 77 \/ 01 41 16 68 70 \/ 07 58 99 84 70 ",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "NET VISION",
+        "commune": "ABOBO",
+        "localisation": "CARREFOUR JOCK, PRÈS DE LA BICICI, SOGEFIHA ABOBO",
+        "type": "Opticiens",
+        "contact": "01 42 87 29 87 \/ 07 79 36 07 36",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie de la Mé",
+        "commune": "ABOBO",
+        "localisation": "Abobo Gare entre la Mairie et la Gendarmerie Voie Express d’Anyama",
+        "type": "Pharmacie",
+        "contact": "27 24 38 38 88 \/ 07 07 91 19 99 \/  01 02 92 84 63",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Aboboté",
+        "commune": "ABOBO",
+        "localisation": "Route du zoo - carrefour menuiserie - près de la clinique centrale d'abobo",
+        "type": "Pharmacie",
+        "contact": "05 06 92 72 45 \/ 07 57 48 94 68",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Nouram",
+        "commune": "ABOBO",
+        "localisation": "Route du zoo à 100m du carrefour mauritanien - sur la voie du marché d'aboboté",
+        "type": "Pharmacie",
+        "contact": "07 57 96 41 62",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "ABOBO",
+        "nom": "Pharmacie Racines",
+        "type": "Pharmacie",
+        "localisation": "Entre la COOPEC Samanke et l’hôpital Banco Sud",
+        "contact": "27 21 33 88 97 \/ 01 03 59 90 45\/07 09 91 25 92",
+        "details": "modifié par Samuel.Blay",
+        "date": "03-11-2021 à 10:11:21"
+    },
+    {
+        "nom": "Pharmacie du centre",
+        "commune": "ABOBO",
+        "localisation": "Abobo avocatier voie express Anyama près de l’hôtel du centre et de l’église universelle du royaume de dieu",
+        "type": "Pharmacie",
+        "contact": "07 47 85 90 09 \/ 01 40 27 54 76",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Abobo Grand Marché",
+        "commune": "ABOBO",
+        "localisation": "Abobo face au grand Marché Carrefour du Lycée Moderne d’Abobo I et II",
+        "type": "Pharmacie",
+        "contact": "07 47 50 84 84 \/ 07 09 86 16 83 \/ 05 44 96 91 01",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de l’Etoile",
+        "commune": "ABOBO",
+        "localisation": "3ème Rond-point Autoroute Abobo Gare près de la Gendarmerie",
+        "type": "Pharmacie",
+        "contact": "07 07 79 06 48 \/ 01 02 44 06 88",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Monastère",
+        "commune": "ABOBO",
+        "localisation": "Route d’Abobo Baoulé à 500m de Samanké près du Monastère des Claristes",
+        "type": "Pharmacie",
+        "contact": "27 24 39 67 01 \/ 01 40 34 09 10",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Actuelle",
+        "commune": "ABOBO",
+        "localisation": "Abobo Baoulé, Carrefour Angré à 200m du Collège Victor Lobad, non loin de la Maternité d’Aboboté",
+        "type": "Pharmacie",
+        "contact": "25 22 00 41 87 \/ 01 01 22 20 32 \/ 07 08 91 85 83",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médical La Citadelle",
+        "commune": "ADJAME",
+        "localisation": "Près de la mairie d'Adjamé",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 33 53 60 \/ 27 20 33 53 80",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie des 220 Logements",
+        "localisation": "Avenue Général de Gaulle Face Station Texaco",
+        "commune": "ADJAME",
+        "type": "Pharmacie",
+        "contact": "27 20 37 38 22 \/ 27 20 37 58 26",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Carrefour HMA",
+        "localisation": "Paillet Extension non loin du Zoo Carrefour CIE",
+        "commune": "ADJAME",
+        "type": "Pharmacie",
+        "contact": "07 79 47 39 22 \/ 05 76 54 52 14",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de l’Espoir",
+        "localisation": "Adjamé 220 Logements Rue devant Edipresse et IMST Face Cité de l’Enfance Croix Rouge",
+        "commune": "ADJAME",
+        "type": "Pharmacie",
+        "contact": "27 20 39 08 31 \/ 07 07 88 65 75",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Michel",
+        "localisation": "Non loin de l’Eglise St Michel en face du CEG – Harris",
+        "commune": "ADJAME",
+        "type": "Pharmacie",
+        "contact": "27 20 37 09 06",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Médical Yelen (Ophtalmologie)",
+        "commune": "COCODY",
+        "localisation": "Angré Caféiers 4 RDC Résidence Bafo, à côté du CSUCOM",
+        "type": "Soins ambulatoires",
+        "contact": "07 09 98 25 27",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre d'Ophtalmologie du Boulevard des Martyrs",
+        "commune": "COCODY",
+        "localisation": "Côté Mosquée Aghien, Batiment J, 1er étage – 2 Plateaux - Aghien",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 52 39 63\/07 47 52 75 23",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Kiné Médical (Kinésithérapie)",
+        "commune": "COCODY",
+        "localisation": "A 100m de la pharmacie Les Arums, cité BCEAO En face de l'imm. Kolo - Angré 8è tranche",
+        "type": "Soins ambulatoires",
+        "contact": "07 07 67 06 41 \/ 27 22 01 45 57 \/ 01 02 50 20 14  ",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Danan",
+        "commune": "COCODY",
+        "localisation": "Cité les Manguiers - Angré Mahou",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 52 49 01",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Hoffman",
+        "commune": "COCODY",
+        "localisation": "Angré 7ème tranche Cité Les Oscars",
+        "type": "Soins ambulatoires",
+        "contact": "05 74 86 82 56",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical International La Gospa",
+        "commune": "COCODY",
+        "localisation": "Cocody en face de la Pharmacie St François Danga",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 44 56 88",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Espace Médical Attoban",
+        "commune": "COCODY",
+        "localisation": "Attoban, derrière la pharmacie St Bernard",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 43 20 21\/ 27 59 58 72 30",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "Centre Medical l’Excellence",
+        "type": "Soins ambulatoires",
+        "localisation": "Cocody Riviera Palmeraie près de la Pharmacie Notre Dame de l’Incarnation",
+        "contact": "01 51 16 16 31 \/ 07 57 25 52 78",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-03-2022 à 14:49:19"
+    },
+    {
+        "nom": "Clinique Home Medical Services (HMS)",
+        "commune": "COCODY",
+        "localisation": "Rue des Jardins non loin du Club House – 2 Plateaux",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 59 61 50",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Hôpital Hygie",
+        "commune": "COCODY",
+        "localisation": "Route d'Abatta Centre commercial ABC",
+        "type": "Soins ambulatoires",
+        "contact": "07 67 47 43 28",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique La Providence",
+        "commune": "COCODY",
+        "localisation": "Cocody Danga, route du Lycée Technique",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 44 95 86 \/ 27 22 44 95 88",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Louis Pasteur",
+        "commune": "COCODY",
+        "localisation": "Angré château, Fin goudron, Non loin du terrain de la Sotra",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 41 32 07 \/ 07 08 37 87 87",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Medical Le Nouveau Lotus",
+        "commune": "COCODY",
+        "localisation": "Rue des banques face à Nsia banque - Angré 8è tranche Cocody",
+        "type": "Soins ambulatoires",
+        "contact": "07 78 75 14 32 \/ 01 51 45 29 19",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Las Palmas",
+        "commune": "COCODY",
+        "localisation": "Non loin du carrefour Duncan - Deux-plateaux - Vallon Cocody - 06 BP 6319 Abidjan 06",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 41 61 02",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale d’Angré",
+        "commune": "COCODY",
+        "localisation": "Angré Terminus 81, 82 à 150m du feu tricolore en venant de Pétro-Ivoire",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 50 49 38 \/ 01 41 64 45 51 \/ 05 05 32 31 04",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Emeraudes Saint Padré Pio",
+        "commune": "COCODY",
+        "localisation": "Voie Abatta, Immeuble Salima, Non loin du Groupe Scolaire Primus avant ABC Center",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 30 75 00 \/ 07 09 17 07 07",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Les Jasmins",
+        "commune": "COCODY",
+        "localisation": "Cocody Boulevard Mitterand, Non loin des Jardins de l'Université FHB de Cocody",
+        "type": "Soins ambulatoires",
+        "contact": "01 41 02 60 30 \/ 01 52 63 75 75",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Saint Gabriel",
+        "commune": "COCODY",
+        "localisation": "2 Plateaux Boulevard Latrille, Derrière la Pharmacie Saint Gabriel",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 52 52 01 \/ 07 07 65 63 43",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Saint Viateur",
+        "commune": "COCODY",
+        "localisation": "Route Akouédo, SIDECI entre Direction des Impôts et Rond-Point Akouédo - Riviera Palmeraie",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 47 26 47 \/ 07 07 09 55 49 \/ 01 01 93 95 82",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Sainte Philomène",
+        "commune": "COCODY",
+        "localisation": "Riviera 2 à côté de la Pharmacie St Ange, Derrière le Collège André Malraux",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 43 43 50",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Polyvalente Sainte Henriette (Ex Hôtel de la Santé Sainte Henriette)",
+        "commune": "COCODY",
+        "localisation": "Cité Vedouwel, Derrière la Pharmacie 8ème tranche - Angré",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 50 72 66 \/ 01 53 40 19 96 \/ 07 08 14 63 14",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Saint Joseph",
+        "commune": "COCODY",
+        "localisation": "Faya Cité ATCI Rue Ekissi Villa 31",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 74 44 12 \/ 05 06 08 54 55",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médical Jade",
+        "commune": "COCODY",
+        "localisation": "Boulevard Mitterrand, Au dessus de la Pharmacie Mimosas, Carrefour de la Vie, Face à Sodefor",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 44 47 90 \/ 07 07 80 89 18",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Groupe Médical Zoe",
+        "commune": "COCODY",
+        "localisation": "Riviera Ciad Primo Non loin de la Pharmacie M’Pouto",
+        "type": "Soins ambulatoires",
+        "contact": "01 02 00 13 50 \/ 05 05 87 64 58",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Clinique Marie Eliana",
+        "commune": "COCODY",
+        "localisation": "Face à la Cité Universitaire - Riviéra 2 Soghefia",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 43 20 52 \/ 01 40 91 31 42 \/ 07 07 88 44 88",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Polyclinique Internationale Divines Grâces (POLYDIGRA)",
+        "commune": "COCODY",
+        "localisation": "Palmeraie Carrefour Guiraud avant le Groupe scolaire de la Palmeraie",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 47 28 42 \/ 05 05 96 29 56 \/ 07 09 09 01 02",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Polyclinique Internationale Sainte Anne Marie (PISAM)",
+        "commune": "COCODY",
+        "localisation": "Rue Cannebière, Av Joseph Blohorn - Cocody",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 48 31 04\/27 22 48 19 22",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Dentaire 9ème tranche",
+        "commune": "COCODY",
+        "localisation": "Bd Mittérand, face Playce Palmeraie, 1er étage immeuble Elisa des Lauriers (proche de station shell) - Riviera Faya",
+        "type": "Cabinets dentaires",
+        "contact": "27 22 45 91 14 \/ 05 05 01 06 44",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Dentaire Lorka",
+        "commune": "COCODY",
+        "localisation": "Palmeraie en face de Good Food à côté de la pharmacie de la Palmeraie",
+        "type": "Cabinets dentaires",
+        "contact": "27 22 47 50 43",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Dentaire Faya",
+        "commune": "COCODY",
+        "localisation": "Riviera Carrefour Faya non loin de la Pharmacie St George",
+        "type": "Cabinets dentaires",
+        "contact": "07 40 45 77 71",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Dentaire Saint Joseph",
+        "commune": "COCODY",
+        "localisation": "Angré 8ème Tranche - Carrefour Mandela Rue des Banques Immeuble Teila 1er étage",
+        "type": "Cabinets dentaires",
+        "contact": "27 22 46 56 19 \/ 07 57 36 77 58 \/ 07 08 51 66 68",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médico-Dentaire Les Elias",
+        "commune": "COCODY",
+        "localisation": "Cocody Ste Marie Ambassade Corée du Sud au sein du Groupe Médical d'Urgence",
+        "type": "Cabinets dentaires",
+        "contact": "07 47 49 54 40",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Groupe Immaculée Optique",
+        "commune": "COCODY",
+        "localisation": "Angré entre le 22ème Arr et le Carrefour Adama Sanogo sur le latrille - Angré 7ème tranche",
+        "type": "Opticiens",
+        "contact": "27 22 42 11 02 \/ 07 08 84 58 55 \/ 05 04 07 76 66",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Hugsley Optical",
+        "commune": "COCODY",
+        "localisation": "Voie Abatta, Près de la SODECI",
+        "type": "Opticiens",
+        "contact": "27 22 00 70 03 \/ 07 59 60 60 64",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "LABEL AVE OPTIC",
+        "type": "Opticiens",
+        "localisation": "Angré 9ème Tranche, Carrefour Koz",
+        "contact": "27 22 50 16 74 \/ 07 48 03 71 74 \/ 07 78 13 59 89",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "02-03-2022 à 13:13:48"
+    },
+    {
+        "nom": "Lu Vision Plus",
+        "commune": "COCODY",
+        "localisation": "Cocody Angré Nouveau CHU non loin de la Pharmacie Sainte Clémentine",
+        "type": "Opticiens",
+        "contact": "05 06 64 81 64 \/ 01 53 65 11 42",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Tendances Optique",
+        "commune": "COCODY",
+        "localisation": "2 Plateaux Boulevard Latrille, non loin de la Farandole",
+        "type": "Opticiens",
+        "contact": "07 07 53 79 50",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Univers Optic",
+        "commune": "COCODY",
+        "localisation": "Riviera Palmeraie, Rosiers 4, Face à la pharmacie Marie Esther",
+        "type": "Opticiens",
+        "contact": "27 22 49 60 32 \/ 01 40 54 65 32",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre de Santé & d'Analyses Médicales (CESAM)",
+        "commune": "COCODY",
+        "localisation": "Boulevard Latrille, près de l'INTERNBAT Derrière le Restaurant BMW – 2 Plateaux",
+        "type": "Laboratoires et Radiologie",
+        "contact": "27 22 41 43 13",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie Sainte Marie",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Cocody Centre – Boulevard de France, Imm NSIA au RDC, non loin de la Maison du PDCI",
+        "contact": "27 22 48 69 20 \/ 07 57 02 94 35",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Berekyah",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Cocody Centre – Face au Lycée International Jean Mermoz",
+        "contact": "27 22 48 79 89 \/ 07 09 97 41 35",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Cephas",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Route d’Abatta Après SICTA Quartier Oribat",
+        "contact": "07 07 69 48 67 \/ 07 09 98 25 27",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie des Allées",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Angré Château – Carrefour Caféiers 2 Stars 6 Route du Château ",
+        "contact": "27 22 42 14 58 \/ 07 58 31 53 55",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Vallon",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Rue des Jardins Face à la BSIC non loin de Paul – 2 Plateaux ",
+        "contact": "27 22 41 35 14",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Cyd Niko",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Boulevard Mitterrand, Route de Bingerville, Riviera Faya, Face au petit portail Cité Génie 2000",
+        "contact": "27 22 47 69 27\/ 07 77 00 00 76 \/ 07 07 01 29 90",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Hosanna",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Cocody Riviera Palmeraie  Près de la Clinique Saint-Viateur",
+        "contact": "27 22 55 25 59 \/ 01 01 17 29 31 \/ 07 97 64 33 56",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de la Palmeraie",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Riviera Palmeraie – Non loin du rond point de la Palmeraie",
+        "contact": "27 22 47 91 19 \/ 01 01 61 65 95",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Enica",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Entre Collège Notre Dame et Collège Saint Viateur – Riviera Palmeraie",
+        "contact": "07 78 99 00 20 \/ 05 46 47 46 94",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Las Palmas",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "2 Plateaux Bvd Latrille, Carrefour Las Palmas",
+        "contact": "27 22 42 14 79 \/ 01 01 21 65 65",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Appaul",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Cocody 8ème tranche - 50 M du collège St Camille Intérieur centre commercial 'Park'n shop'",
+        "contact": "27 22 50 26 40",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Latrille",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Boulevard Latrille, Face ENA – 2 Plateaux",
+        "contact": "27 22 41 03 68 \/ 01 03 76 30 40",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Gabriel",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Boulevard Latrille à 900m du club, en allant vers angré",
+        "contact": "27 22 42 58 35 \/ 07 07 09 41 74",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Les Arums",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Angré 8ème tranche – Carrefour BCEAO, Grande Voie menant à la CNPS",
+        "contact": "27 22 50 66 40 \/ 07 58 17 16 19",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Les Jardins d’Eden",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Riviera 4, Route Mbadon, Cité Eden, face à l’école libanaise",
+        "contact": "27 21 37 37 27 \/ 01 01 34 98 49",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Les Mimosas",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Entre Carrefour de la Vie et la Sodefor Face à Setaci - Cocody",
+        "contact": "27 22 44 32 28 \/ 01 03 23 83 56",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Magnificat des II Plateaux",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "2 Plateaux Angré – Non loin du Carrefour Opéra Aghien",
+        "contact": "27 22 52 53 00 \/ 07 08 16 81 16",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Marthe Robin",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Cité SIPIM 3 Face Espace vert Route Collège Notre Dame - Riviéra Palmeraie",
+        "contact": "27 22 49 24 79 \/ 07 58 17 16 14",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Notre Dame de l’Incarnation",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Non loin du Centre de Santé Communautaire -  Riviéra Palmeraie",
+        "contact": "27 22 52 39 63 \/ 07 47 52 75 23",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Ange",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Près du Collège André Malraux Route Attoban",
+        "contact": "27 22 43 45 04 \/ 01 01 62 53 60",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Bernard",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Cité Attoban près de CIPHARM",
+        "contact": "27 22 43 65 46 \/ 01 40 31 43 41",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Star 9",
+        "commune": "COCODY",
+        "type": "Pharmacie",
+        "localisation": "Prolongement du Bvd Latrille Route Aboboté Face Cité Star 9B non loin de l’Eglise St Ambroise Jubilé",
+        "contact": "27 22 52 22 19 \/ 01 40 27 51 10 \/ 07 88 35 99 11",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Les Merveilles",
+        "commune": "KOUMASSI",
+        "localisation": "En face du 20ème Arr, Imm 1er étage – Koumassi Campement",
+        "type": "Soins ambulatoires",
+        "contact": "07 48 34 35 62",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Irys",
+        "commune": "KOUMASSI",
+        "localisation": "Imm. Pharmacie Mesano - Prodomo 1",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 36 36 21 \/ 01 01 15 53 09",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Soraya",
+        "commune": "KOUMASSI",
+        "localisation": "Après Pharmacie Saint Paul à 200m sur la gauche – Koumassi Akromiabla",
+        "type": "Soins ambulatoires",
+        "contact": "01 41 10 96 96",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médical Les Ruches Plus",
+        "commune": "KOUMASSI",
+        "localisation": "A 200m de la station Total, Non loin de l’Hôpital des Sœurs - Cité Agouti",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 36 17 03 \/ 27 21 56 59 38 \/ 01 41 09 80 42",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique RIMCA",
+        "commune": "KOUMASSI",
+        "localisation": "Boulevard du Gabon, Au-dessus de la Pharmacie Soleil",
+        "type": "Radiologie",
+        "contact": "27 21 22 31 22 \/ 01 41 84 41 64\/ 07 77 59 94 60",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Optical Discount koumassi",
+        "commune": "KOUMASSI",
+        "localisation": "18 Bd du Gabon, Abidjan",
+        "type": "Opticiens",
+        "contact": "27 21 25 59 66 \/ 07 49 30 02 65",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Grande Pharmacie des Lacs (Ex Pharmacie Aniel)",
+        "commune": "KOUMASSI",
+        "localisation": "Boulevard du 7 Décembre en face du Foyer des Jeunes près de l’Eglise St Etienne",
+        "type": "Pharmacie",
+        "contact": "05 04 97 19 97 \/ 07 07 59 14 97",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Abya",
+        "commune": "KOUMASSI",
+        "localisation": "Remblais, Rue du Canal, Face Station Petroci",
+        "type": "Pharmacie",
+        "contact": "27 21 28 62 36 \/ 01 01 01 23 32",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Berakha (Ex Pharmacie Babakan)",
+        "commune": "KOUMASSI",
+        "localisation": "Boulevard Houphouet Boigny Après Commissariat du 20ème Arr, Face Mosquée Sangaré - Koumassi Campement",
+        "type": "Pharmacie",
+        "contact": "27 21 28 94 45 \/ 07 47 50 36 37",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Fanny",
+        "commune": "KOUMASSI",
+        "localisation": "Quartier Aklomiabla, Carrefour du Lycée Municipal Terminus Bus 05 et 32",
+        "type": "Pharmacie",
+        "contact": "27 21 36 09 07",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Albert",
+        "commune": "KOUMASSI",
+        "localisation": "Grand Marché Cité des Graces Face Eglise Méthodiste – Koumassi Remblais",
+        "type": "Pharmacie",
+        "contact": "27 21 28 76 04 \/ 27 21 28 75 99 \/ 01 01 44 43 65",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médico-Chirurgical France Ivoire",
+        "commune": "MARCORY",
+        "localisation": "Face au Wafou - Biétry",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 25 25 60 \/ 01 01 11 67 50",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Les Arcades",
+        "commune": "MARCORY",
+        "localisation": "Rue du Canal, Près de Ecoplus et de la Pharmacie Pérusia, Biétry - Zone 4 C",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 24 42 34 \/ 27 21 24 43 34 \/ 27 21 25 26 34",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Carly",
+        "commune": "MARCORY",
+        "localisation": "En face de la Maison de Philippe Yace, Biétry - Zone 4 C",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 24 60 05 \/ 01 02 59 88 75",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale La Vierge des Noces",
+        "commune": "MARCORY",
+        "localisation": "Boulevard Loraine, en face de l’Hôtel Hamanieh – Marcory Résidentiel",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 26 05 77 \/ 07 49 75 31 65",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre de Santé et d’Explorations Radiologiques d’Abidjan (CSERA)",
+        "commune": "MARCORY",
+        "localisation": "Marcory Anoumabo",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 28 16 96 \/ 07 48 51 46 84",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Méditex",
+        "commune": "MARCORY",
+        "localisation": "En face de la Station Corlay – Marcory Ste Thérèse",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 26 31 76 \/ 07 07 79 70 40",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "MARCORY",
+        "nom": "Clinique Polymed",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Rue de la Paix – Marcory Résidentiel",
+        "contact": "27 21 28 44 03 \/ 27 21 26 89 22\/ 27 21 26 10 26",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 10:55:28"
+    },
+    {
+        "commune": "MARCORY",
+        "nom": "Polyclinique Farah",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Carrefour Donwahi – Marcory Résidentiel",
+        "contact": "27 21 26 00 93 \/ 27 21 23 08 00 \/ 07 47 11 11 11",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 10:55:53"
+    },
+    {
+        "nom": "Fashion Vision",
+        "commune": "MARCORY",
+        "localisation": "Rue du 7 Décembre - Zone 4",
+        "type": "Opticiens",
+        "contact": "05 05 46 92 07",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de l’Amitié",
+        "commune": "MARCORY",
+        "localisation": "Bvd du Cameroun, Nouveau Marché, Bus n°5 – Marcory Remblais",
+        "type": "Pharmacie",
+        "contact": "27 21 26 85 06 \/ 07 59 92 28 75",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de Biétry",
+        "commune": "MARCORY",
+        "localisation": "Bvd de Marseille, Rue du Canal, Avant-Centre Commercial Holliday, Imm SGBCI – Zone 4 C",
+        "type": "Pharmacie",
+        "contact": "27 21 24 86 89",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie des Lagunes",
+        "commune": "MARCORY",
+        "localisation": "Rue de la Paix Face à AGIP – Marcory Résidentiel",
+        "type": "Pharmacie",
+        "contact": "27 21 26 12 40 \/ 27 21 26 63 80",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Grand Marché",
+        "commune": "MARCORY",
+        "localisation": "Bvd du Cameroun Rue F133 Face au Grand Marché",
+        "type": "Pharmacie",
+        "contact": "27 21 56 90 96",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Pont d'Anoumabo",
+        "commune": "MARCORY",
+        "localisation": "50m Après le Pont - Anoumabo",
+        "type": "Pharmacie",
+        "contact": "27 21 26 15 11 \/ 07 77 83 78 57",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de l’INJS",
+        "commune": "MARCORY",
+        "localisation": "GFCI Grand portail de l’INJS Face Station Total",
+        "type": "Pharmacie",
+        "contact": "27 21 28 10 10 \/ 07 79 03 01 43",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Les Remblais",
+        "commune": "MARCORY",
+        "localisation": "Face au Commissariat du 26ème  Arr, Alliodan – Sans Fil",
+        "type": "Pharmacie",
+        "contact": "27 21 26 25 40 \/ 27 21 26 37 58",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Notre Dame d’Afrique",
+        "commune": "MARCORY",
+        "localisation": "Bvd de Marseille Face au Collège Notre Dame d’Afrique – Biétry Zone 4 C",
+        "type": "Pharmacie",
+        "contact": "27 21 25 25 26",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie PTT",
+        "commune": "MARCORY",
+        "localisation": "Bvd du Cameroun derrière Cours Lamartine à 200m de la Poste – Marcory Résidentiel",
+        "type": "Pharmacie",
+        "contact": "27 21 26 98 83",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Sainte Thérèse",
+        "commune": "MARCORY",
+        "localisation": "Avenue TSF Face à l’Eglise Ste Thérèse - Marcory Ste Thérèse",
+        "type": "Pharmacie",
+        "contact": "27 21 26 77 10 \/ 07 58 09 47 98 \/ 01 01 38 17 78",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie TSF",
+        "commune": "MARCORY",
+        "localisation": "Avenue TSF, non loin du 9ème Arr GFCI",
+        "type": "Pharmacie",
+        "contact": "27 21 26 78 12",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet de Cardiologie Edlona",
+        "commune": "PLATEAU",
+        "localisation": "6 Rue Paris Village, Imm.Tchegbao 1er étage porte 13",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 21 91 30",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Médical Home Medical Services (HMS)",
+        "commune": "PLATEAU",
+        "localisation": "Avenue Lamblin entre CNAM et Résidence Lagunaire",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 21 46 34",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Médical Sainte Thérèse",
+        "commune": "PLATEAU",
+        "localisation": "Rue du Commerce, Résidence Petit Bassam 1er étage, à coté de la Pharmacie du Commerce",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 32 20 04 \/ 27 20 32 25 09 \/ 01 01 23 75 20",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Adrien Gabla",
+        "commune": "PLATEAU",
+        "localisation": "Rue du Commerce Immeuble Amiral, 3è étage face au Novotel",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 33 88 80 \/ 07 07 44 44 94",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Longchamp",
+        "commune": "PLATEAU",
+        "localisation": "Boulevard Cadre, Imm. Longchamp, Juste à coté de la pharmacie Longchamp",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 22 34 27 \/ 07 08 73 75 25",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Novacare",
+        "commune": "PLATEAU",
+        "localisation": "Avenue Nogues, Imm. The Green Rez Chaussée et 1er étage",
+        "type": "Soins ambulatoires",
+        "contact": "07 67 07 07 07 \/ 07 68 08 08 08 \/ 07 78 14 82 33",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical St Joseph",
+        "commune": "PLATEAU",
+        "localisation": "Boulevard Delafosse, RDC de la Résidence Lagunaire non loin de l'Hôtel Pullman",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 32 02 40 \/ 07 77 37 94 80",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médical Saint Paul",
+        "commune": "PLATEAU",
+        "localisation": "Non loin de l’Imprimerie Nationale",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 21 18 27 \/ 27 20 21 16 52 \/ 01 02 90 04 14",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Laboratoire Central",
+        "commune": "PLATEAU",
+        "localisation": "Avenue Franchet d’Espérey, Imm Ollo 2ème étage",
+        "type": "Laboratoires",
+        "contact": "27 20 22 43 62 \/ 07 59 91 77 27\/ 01 01 03 59 45",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Laboratoire Pierre Montagnier",
+        "commune": "PLATEAU",
+        "localisation": "Rue Courgas Imm. Nour Al Hayat 4ème étage, en face de I’Imm. Alpha 2000",
+        "type": "Laboratoires",
+        "contact": "27 20 21 22 63 \/ 27 20 21 33 52 \/  27 20 21 27 85",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie et Laboratoire Place de la République",
+        "commune": "PLATEAU",
+        "localisation": "10 Avenue Houdaille, Près de la tour EECI",
+        "type": "Laboratoires",
+        "contact": "27 22 46 29 22",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Grande Pharmacie des Banques",
+        "commune": "PLATEAU",
+        "localisation": "Rue du Sénateur, Imm Lagarosse face à la SGBCI et GT Bank",
+        "type": "Pharmacie",
+        "contact": "27 20 32 94 12 \/ 07 07 07 10 89",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie Avenue Nogues",
+        "commune": "PLATEAU",
+        "localisation": "Avenue Nogues Imm The Green, près du Super Marché Le Moins Cher, Face à BSIC",
+        "type": "Pharmacie",
+        "contact": "27 20 31 16 10",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie Les Harmonies",
+        "commune": "PLATEAU",
+        "localisation": "Bvd Carde, Face Imm Les Harmonies, Non loin du Camp militaire Galiéni, Près de la Gare SOTRA",
+        "type": "Pharmacie",
+        "contact": "27 20 22 04 92 \/ 05 75 20 17 19",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Aniaman",
+        "commune": "PLATEAU",
+        "localisation": "Rue Joseph Anoma (Rue des Banques côté Rue Alphonse Daudet) Imm Aniaman",
+        "type": "Pharmacie",
+        "contact": "27 20 32 12 29 \/ 07 07 07 16 76",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Avenue Chardy",
+        "commune": "PLATEAU",
+        "localisation": "Avenue Chardy près de la Station Shell Cinéma Le Paris",
+        "type": "Pharmacie",
+        "contact": "27 20 21 66 01 \/ 07 49 79 88 45",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Koralie",
+        "commune": "PLATEAU",
+        "localisation": "Angle Bvd de la République et Avenue Marchand RDC Imm Jeceda",
+        "type": "Pharmacie",
+        "contact": "27 20 33 88 25 \/ 07 09 56 11 11",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie des Finances",
+        "commune": "PLATEAU",
+        "localisation": "Bvd Clozel, Imm Sitarail vers le Palais de Justice",
+        "type": "Pharmacie",
+        "contact": "27 20 30 39 50",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Palais de Justice",
+        "commune": "PLATEAU",
+        "localisation": "Bvd Clozel, Face au Palais de Justice près de la Recette Municipale",
+        "type": "Pharmacie",
+        "contact": "27 20 21 95 64 \/ 27 20 21 95 66",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Moderne Mazuet",
+        "commune": "PLATEAU",
+        "localisation": "Rue du Commerce, Coté Gare Sud Imm Nassar",
+        "type": "Pharmacie",
+        "contact": "27 20 22 21 31 \/ 27 20 32 96 64",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Place de la République",
+        "commune": "PLATEAU",
+        "localisation": "10 Avenue Houdaille, Près de la tour EECI",
+        "type": "Pharmacie",
+        "contact": "27 22 46 29 22",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Malon",
+        "commune": "PORT BOUËT",
+        "localisation": "Près de la Grande Mosquée - Sogefiha",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 27 80 44",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale de l'Union",
+        "commune": "PORT BOUËT",
+        "localisation": "Port-Bouët Sipim, Derrière Wharf",
+        "type": "Soins ambulatoires",
+        "contact": "07 07 85 27 08 \/ 07 59 69 93 16 \/ 01 42 65 21 38",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médico-Chirurgical Eliel",
+        "commune": "PORT BOUËT",
+        "localisation": "Vridi Cité Rue des Pêcheurs",
+        "type": "Soins ambulatoires",
+        "contact": "01 01 97 47 99",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Hôpital Général de Port-Bouët",
+        "commune": "PORT BOUËT",
+        "localisation": "En face de l’Abattoir central, Non loin du Centre Pilote",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 27 85 00",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Institut Cœur d’Espérance",
+        "commune": "PORT BOUËT",
+        "localisation": "Port-Bouët ",
+        "type": "Soins ambulatoires",
+        "contact": "07 08 87 81 50 \/ 07 49 85 77 53",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de Port Bouet",
+        "commune": "PORT BOUËT",
+        "localisation": "Avenue de la Baltique, près du Centre Pilote des Jeunes de Port-Bouêt",
+        "type": "Pharmacie",
+        "contact": "27 21 27 89 17",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Wharf",
+        "commune": "PORT BOUËT",
+        "localisation": "Quartier derrière Warf Route de Grand Bassam près du Dépôt 8 de la SOTRA",
+        "type": "Pharmacie",
+        "contact": "27 21 27 87 81 \/ 27 21 27 71 31",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Malon",
+        "commune": "PORT BOUËT",
+        "localisation": "Quartier Hôpital près de la Grande Mosquée",
+        "type": "Pharmacie",
+        "contact": "27 21 27 96 14 \/ 07 07 90 68 50",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie St louis de Gonzague",
+        "commune": "PORT BOUËT",
+        "localisation": "Face au Lycée Municipal de Gonzague",
+        "type": "Pharmacie",
+        "contact": "07 58 09 46 25 \/ 01 42 50 98 55",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet d’Ophtalmologie Kaydara",
+        "commune": "TREICHVILLE",
+        "localisation": "RDC Imm. Nanan Yamousso",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 35 30 50",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Roche",
+        "commune": "TREICHVILLE",
+        "localisation": "Boulevard VGE, Imm Roche 1er étage",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 25 62 76 \/ 05 44 03 28 30",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Nanan Yamousso",
+        "commune": "TREICHVILLE",
+        "localisation": "Rue 38, Face Imm. Nanan Yamousso",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 24 76 66 \/ 01 02 02 44 38",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Dentaire du Rond Point de Treichville",
+        "commune": "TREICHVILLE",
+        "localisation": "Boulevard VGE, Imm Roche 2ème étage",
+        "type": "Cabinets dentaires",
+        "contact": "27 21 25 72 81 \/ 05 05 17 00 06",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Optical Discount",
+        "commune": "TREICHVILLE",
+        "localisation": "Rue de l'Industrie, Treichville",
+        "type": "Opticiens",
+        "contact": "27 21 24 42 60",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie Notre Dame",
+        "commune": "TREICHVILLE",
+        "localisation": "Avenue 21 Rue 38 Face à la Station Shell",
+        "type": "Pharmacie",
+        "contact": "27 21 24 10 60 \/ 05 84 23 80 13",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Belleville",
+        "commune": "TREICHVILLE",
+        "localisation": "Voie du Marché Belleville Sicogi Craone Arras III Avenue 27",
+        "type": "Pharmacie",
+        "contact": "27 21 25 09 32",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de l'Arras",
+        "commune": "TREICHVILLE",
+        "localisation": "Boulevard Mamadou Coulibaly Gare de Bassam",
+        "type": "Pharmacie",
+        "contact": "27 21 24 13 29",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de l'Avenue 21",
+        "commune": "TREICHVILLE",
+        "localisation": "Avenue 21 Rue 21 Face au Petit Marché",
+        "type": "Pharmacie",
+        "contact": "27 21 24 83 46",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie des Brasseurs",
+        "commune": "TREICHVILLE",
+        "localisation": "Face au CHU de Treichville, 1 Rue des Brasseurs Entre Station BP et Imprimerie Abidjan Continu",
+        "type": "Pharmacie",
+        "contact": "27 21 25 17 25",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie des Trois Mosquées",
+        "commune": "TREICHVILLE",
+        "localisation": "Avenue 8 Rue 22 Barrée Rue de la Grande Mosquée",
+        "type": "Pharmacie",
+        "contact": "27 21 24 21 96",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Grand Marché",
+        "commune": "TREICHVILLE",
+        "localisation": "Avenue 8 Rue 13 Place de l’Ancien Marché",
+        "type": "Pharmacie",
+        "contact": "27 21 24 00 72",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Port",
+        "commune": "TREICHVILLE",
+        "localisation": "Boulevard de Vridi Port de Pêche – Zone portuaire",
+        "type": "Pharmacie",
+        "contact": "27 21 25 21 29 \/ 01 01 07 48 12",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Sainte Jeanne",
+        "commune": "TREICHVILLE",
+        "localisation": "Entrée marché de Belleville face station Petro Ivoire",
+        "type": "Pharmacie",
+        "contact": "27 21 24 57 41",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie France Afrique",
+        "commune": "TREICHVILLE",
+        "localisation": "Avenue 2 Rue 5 Face Cité Policière et Stations Shell et Mobil",
+        "type": "Pharmacie",
+        "contact": "27 21 24 18 19 \/ 01 01 10 88 99",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Magne Vianney",
+        "commune": "YOPOUGON",
+        "localisation": "Niangon Lokoua, à 200 m de l'église catholique Ste Jeanne d'Arc",
+        "type": "Soins ambulatoires",
+        "contact": "01 40 88 39 27 \/ 05 85 16 28 22",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Saint Pierre",
+        "commune": "YOPOUGON",
+        "localisation": "Yopougon Zone Industrielle Prison Civile, Cité ADO, Carrefour 2 Cotés",
+        "type": "Soins ambulatoires",
+        "contact": "01 02 03 86 16 \/ 07 07 10 01 46",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médico-Pédiatrique L'Ananeraie",
+        "commune": "YOPOUGON",
+        "localisation": "Après la Coopec, Carrefour Barrique - Yopougon Ananeraie",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 46 51 46 \/ 01 01 22 56 06 \/ 07 87 16 11 79",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Hôtel Médical Maria",
+        "commune": "YOPOUGON",
+        "localisation": "Près Annexe Mairie - Toits rouges",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 52 32 05 \/ 01 41 58 10 57 \/ 07 77 22 83 69",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Les Oliviers",
+        "commune": "YOPOUGON",
+        "localisation": "Banco Sud, proche des Sapeurs-Pompiers sur la route d'Abobo-Doumé",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 51 84 44 \/ 27 23 45 01 46 \/ 01 01 01 30 37",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Oasis Sante",
+        "commune": "YOPOUGON",
+        "localisation": "Même alignement que la pharmacie Keneya, après la BNI Yopougon Keneya, Boulevard Principal",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 53 18 34 \/ 07 58 04 24 51 \/ 05 55 08 08 66",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Sainte Marie",
+        "commune": "YOPOUGON",
+        "localisation": "Niangon sud, à droite, Immeuble les 18 Pavillons - Académie de la mer",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 46 13 96 \/ 07 09 40 62 35 \/ 07 08 81 72 93",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Verdoyant",
+        "commune": "YOPOUGON",
+        "localisation": "Yopougon millionnaire près de de l'Hôtel Anonymat",
+        "type": "Soins ambulatoires",
+        "contact": "01 01 41 42 84",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médico-Chirurgicale Le Banco",
+        "commune": "YOPOUGON",
+        "localisation": "Face à la gare MIDID – Yopougon Sable Yopougon Sable, face à la Gare MIDID",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 52 71 64 \/ 07 09 23 65 23 \/ 01 02 00 13 59",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Sainte Jane Leora",
+        "commune": "YOPOUGON",
+        "localisation": "Collège Guchanrolain - Ananeraie",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 50 72 05 \/ 07 58 51 37 06",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Sainte Famille",
+        "commune": "YOPOUGON",
+        "localisation": "Yopougon SIDECI, à côté de l'école BAD",
+        "type": "Soins ambulatoires",
+        "contact": "01 03 96 68 95 \/ 07 57 90 57 55",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Sainte Rita de Cascia",
+        "commune": "YOPOUGON",
+        "localisation": "Carrefour Amondji, Non loin de la Pharmacie Cité CIE",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 45 55 99 \/ 27 23 50 27 63 \/ 27 23 45 56 09",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médical Saint Sauveur",
+        "commune": "YOPOUGON",
+        "localisation": "Yopougon Maroc, à 100 m du Carrefour Antenne",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 46 91 21 \/ 27 05 41 72 77",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médical Saint Simon",
+        "commune": "YOPOUGON",
+        "localisation": "Niangon Nord, Quartier Maroc à 100m du Carrefour Antenne",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 50 98 95 \/ 27 23 52 00 86",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique la Guardia",
+        "commune": "YOPOUGON",
+        "localisation": "Yopougon Carrefour Chu",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 40 80 15 \/ 07 07 19 01 90",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Groupe Médical Prométhée",
+        "commune": "YOPOUGON",
+        "localisation": "Niangon Nord, Quartier Ananeraie",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 45 30 77 \/ 07 49 40 17 70 \/ 01 02 66 04 57",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Maternité Béthel",
+        "commune": "YOPOUGON",
+        "localisation": "Niangon Sud à gauche Carrefour Allocodrome en face de la Pharmacie Niangon Sud, Imm 1er étage",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 45 53 23 \/ 07 07 82 83 29",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Polyclinique de Yopougon",
+        "commune": "YOPOUGON",
+        "localisation": "En face de la Pharmacie Koweit – Yopougon Koweit",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 45 08 86 \/ 07 09 17 79 44 \/ 07 48 62 23 20",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "ALLIANC OPTIQUE",
+        "type": "Opticiens",
+        "localisation": "Carrefour Saint Pierre Marie – Toits Rouges",
+        "contact": "25 20 01 23 43 \/ 07 88 42 21 36",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "23-04-2022 à 20:54:26"
+    },
+    {
+        "nom": "Opticiens Visagistes",
+        "commune": "YOPOUGON",
+        "localisation": "Yopougon Maroc <\/br> Yopougon Palais",
+        "type": "Opticiens",
+        "contact": "27 23 51 80 80 \/ 05 05 09 87 68 \/ 07 09 09 07 97",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie Principale",
+        "commune": "YOPOUGON",
+        "localisation": "Yopougon Attié, Boulevard Principal, Face à Figayo, Arrêt de Bus 27,38,40,83",
+        "type": "Pharmacie",
+        "contact": "27 21 74 53 40 \/ 07 09 57 75 92",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Bel Air",
+        "commune": "YOPOUGON",
+        "localisation": "Carrefour Bel Air en face de la SGBCI",
+        "type": "Pharmacie",
+        "contact": "07 07 07 78 59 \/ 07 58 49 96 94",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Carrefour Pompier",
+        "commune": "YOPOUGON",
+        "localisation": "Face aux Sapeurs-Pompiers BAE – Toits Rouges",
+        "type": "Pharmacie",
+        "contact": "01 03 05 78 65 \/ 07 78 24 60 88",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Cité CIE",
+        "commune": "YOPOUGON",
+        "localisation": "Carrefour Niangon Voie principale de la Cité CIE Face à la Pâtisserie Flora – Yopougon Maroc",
+        "type": "Pharmacie",
+        "contact": "27 23 46 34 26",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de Locodjoro",
+        "commune": "YOPOUGON",
+        "localisation": "Après le Marché Route Abobodoumé",
+        "type": "Pharmacie",
+        "contact": "01 02 25 21 31",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Keneya",
+        "commune": "YOPOUGON",
+        "localisation": "Bd. principal - Keneya Yopougon",
+        "type": "Pharmacie",
+        "contact": "27 23 54 44 65 \/ 27 23 45 00 07 \/ 07 09 60 21 38",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Lavage",
+        "commune": "YOPOUGON",
+        "localisation": "Près du Carrefour Lavage – Yopougon Selmer",
+        "type": "Pharmacie",
+        "contact": "27 23 53 16 55 \/ 07 77 30 78 02 \/ 01 42 99 94 66 ",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Millionnaire",
+        "commune": "YOPOUGON",
+        "localisation": "Sur la voie de l’Institut des Aveugles – Quartier Millionnaire",
+        "type": "Pharmacie",
+        "contact": "07 09 55 55 31 \/ 05 45 45 50 35",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Gnimah",
+        "commune": "YOPOUGON",
+        "localisation": "Près de l’ancienne Gare 2ème arrêt Bus 39 Entrée Principale à 200m de l’ancienne Mosquée – Yopougon Port Bouet II",
+        "type": "Pharmacie",
+        "contact": "27 23 46 54 89 \/ 01 01 88 48 86 \/ 07 58 55 12 63",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Maty",
+        "commune": "YOPOUGON",
+        "localisation": "Entre la Station Lubafrique et le Collège Anador - Niangon Nord Maroc SIB",
+        "type": "Pharmacie",
+        "contact": "27 23 46 27 15 \/ 27 23 46 27 80 \/ 05 04 98 60 25",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Siporex",
+        "commune": "YOPOUGON",
+        "localisation": "Près de la Gare Yopougon Ancienne Route Carrefour Siporex",
+        "type": "Pharmacie",
+        "contact": "07 57 49 22 97",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "Pharmacie Yacine",
+        "type": "Pharmacie",
+        "localisation": "TOITS ROUGES  NON LOIN DE LA POSTE- SUR LA VOIE ALLANT À LA LONACI ET AU COLLÈGE OFFOUMOU YAPO",
+        "contact": "27 23 50 98 27 \/ 01 41 00 02 43 \/ 07 89 84 49 82",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:46:03"
+    },
+    {
+        "nom": "Pharmacie Yopougon Anador",
+        "commune": "YOPOUGON",
+        "localisation": "Carrefour Anador Face au Maquis O Baoule – Yopougon Maroc",
+        "type": "Pharmacie",
+        "contact": "27 24 48 02 39 \/ 01 01 35 08 36 \/ 07 09 59 02 14",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Segai",
+        "commune": "YOPOUGON",
+        "localisation": "Wassakara - Face au Marché",
+        "type": "Pharmacie",
+        "contact": "01 01 28 15 59 \/ 07 58 48 74 33",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Andre",
+        "commune": "YOPOUGON",
+        "localisation": "Après la Cathédrale St André, Sicogi",
+        "type": "Pharmacie",
+        "contact": "27 23 46 58 77 \/ 25 20 01 01 85 \/ 07 57 49 23 06",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "Pharmacie Maison Blanche",
+        "type": "Pharmacie",
+        "localisation": "MAISON BLANCHE - BANCO 2",
+        "contact": "27 23 51 47 46 \/ 01 01 33 59 59",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:44:40"
+    },
+    {
+        "nom": "Pharmacie Tizra",
+        "commune": "YOPOUGON",
+        "localisation": "Toit Rouge vers Offoumou Yapo - Immeuble Ancien Bazar",
+        "type": "Pharmacie",
+        "contact": "27 23 50 04 47",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Clement",
+        "commune": "YOPOUGON",
+        "localisation": "Face au CHU de Yopougon",
+        "type": "Pharmacie",
+        "contact": "27 23 46 62 36",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "Nouvelle Pharmacie Port Bouet 2",
+        "type": "Pharmacie",
+        "localisation": " ROUTE NIANGON NORD, FACE MOSQUÉE AL BILAL(MOSQUEE PORT BOUET 2) - QUARTIER PORT BOUËT 2",
+        "contact": "27 23 46 60 53 \/ 27 23 46 60 63",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:48:41"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "Pharmacie du Cinema Boissy",
+        "type": "Pharmacie",
+        "localisation": "TOITS ROUGES, FACE AU COMMISSARIAT DU 19ÈME ARRONDISSEMENT",
+        "contact": "27 23 45 65 59 \/ 07 08 58 23 10",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:45:32"
+    },
+    {
+        "nom": "Pharmacie les Oliviers",
+        "commune": "YOPOUGON",
+        "localisation": "1er pont face station shell de l’institut des aveugles \/ entre agence green et discount",
+        "type": "Pharmacie",
+        "contact": "27 23 45 09 62 \/ 07 57 49 23 00",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Wassakara",
+        "commune": "YOPOUGON",
+        "localisation": "Rue Princesse, près du Carrefour cité SIB, Wassakara",
+        "type": "Pharmacie",
+        "contact": "07 57 49 23 01",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "Pharmacie William Ponty",
+        "type": "Pharmacie",
+        "localisation": "QUARTIER SELMER EN FACE COLLEGE WILLIAM PONTY",
+        "contact": "27 23 48 51 19 \/ 07 07 32 43 71 \/01 03 67 05 02",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:49:03"
+    },
+    {
+        "nom": "Pharmacie Yopougon Kouté",
+        "commune": "YOPOUGON",
+        "localisation": "A 300m du Central téléphonique",
+        "type": "Pharmacie",
+        "contact": "01 03 38 74 25",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "ABENGOUROU",
+        "nom": "Clinique Médicale Saint François",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Carrefour Reine Noufan – Plateau Indénié",
+        "contact": "07 47 59 31 29 \/ 01 52 25 96 87",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "22-05-2022 à 14:13:10"
+    },
+    {
+        "nom": "Hôtel Médical Notre Dame de la Paix",
+        "commune": "ABENGOUROU",
+        "localisation": "Carrefour CAFOP - Plateau Indénié",
+        "type": "Soins ambulatoires",
+        "contact": "27 35 91 22 52 \/ 07 47 91 44 77",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Clinique Médicale Saint Joseph Le Bâtisseur",
+        "commune": "ADZOPE",
+        "localisation": "Non loin de l’Hôtel Sekedes",
+        "type": "Soins ambulatoires",
+        "contact": "07 77 27 27 18",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace Médical Agnéby",
+        "commune": "AGBOVILLE",
+        "localisation": "Quartier Résidentiel Ancien",
+        "type": "Soins ambulatoires",
+        "contact": "05 05 61 40 49 \/ 07 08 98 06 67",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Hôpital Mère Enfant",
+        "commune": "BINGERVILLE",
+        "localisation": "Bingerville – Non loin de la Direction Générale des Impôts",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 51 15 00",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Société Médicale Les Perles",
+        "commune": "BINGERVILLE",
+        "localisation": "Cité Marina Carrefour Adama",
+        "type": "Soins ambulatoires",
+        "contact": "27 22 40 10 21 \/ 07 07 85 26 89",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "BINGERVILLE",
+        "nom": "Pharmacie Akré Albert Assamoi",
+        "type": "Pharmacie",
+        "localisation": "Nouvelle Gare routière",
+        "contact": "01 40 95 24 28 \/ 07 57 13 68 36\/ 07 08 08 07 15",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:02:13"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "Pharmacie Jules Verne",
+        "type": "Pharmacie",
+        "localisation": "Route de Bingerville face à l’Ecole Française Jules Verne – Abatta",
+        "contact": "27 21 77 44 50 \/ 07 97 03 83 44",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:03:48"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "Pharmacie kannien",
+        "type": "Pharmacie",
+        "localisation": "Face à Jules Verne, à 200m de la cité Synatrésor - Abatta Cocody",
+        "contact": "01 01 01 46 36",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:04:10"
+    },
+    {
+        "nom": "Clinique Médicale Sainte Agnès",
+        "commune": "BONDOUKOU",
+        "localisation": "Quartier Lycée - Bondoukou",
+        "type": "Soins ambulatoires",
+        "contact": "07 07 77 64 37",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Bethel",
+        "commune": "BOUAFLÉ",
+        "localisation": "Ancienne COOPEC, route du marché",
+        "type": "Soins ambulatoires",
+        "contact": "27 32 77 80 01 \/ 07 57 14 75 16",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Saint Augustin",
+        "commune": "BOUAFLÉ",
+        "localisation": "Bouaflé",
+        "type": "Pharmacie",
+        "contact": "27 30 68 91 78 \/ 07 08 25 11 25",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Saint Josué",
+        "commune": "BOUAKÉ",
+        "localisation": "Non loin de la Pharmacie TSF",
+        "type": "Soins ambulatoires",
+        "contact": "27 31 63 24 86 \/ 07 67 71 17 71",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Polyclinique du Centre",
+        "commune": "BOUAKÉ",
+        "localisation": "Kamounoukro, Avenue Félix Houphouet Boigny, route de Katiola",
+        "type": "Soins ambulatoires",
+        "contact": "07 77 74 79 36 \/ 01 02 38 37 39",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Polyclinique Sainte Fraternité",
+        "commune": "BOUAKÉ",
+        "localisation": "Près de l’Imm Kanga, Route de Katiola",
+        "type": "Soins ambulatoires",
+        "contact": "27 31 65 61 48 \/ 07 07 95 73 37",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Dentaire Ivoire",
+        "commune": "BOUAKÉ",
+        "localisation": "Av FHB Rue du Commerce, Bâtiment du Salon d’Eté ",
+        "type": "Cabinets dentaires",
+        "contact": "07 07 17 11 17 \/ 05 05 73 49 17",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Opticiens Visagistes",
+        "commune": "BOUAKÉ",
+        "localisation": "Bouaké",
+        "type": "Opticiens",
+        "contact": "07 08 37 73 80",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie des Champs",
+        "commune": "BOUAKÉ",
+        "localisation": "Route de Gonfreville Face SODECI",
+        "type": "Pharmacie",
+        "contact": "27 31 63 33 63 \/ 07 07 07 82 62",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Nouvelle Pharmacie des Savanes",
+        "commune": "BOUAKÉ",
+        "localisation": "Route de l’Aéroport en Face de CFAO, Face SARI",
+        "type": "Pharmacie",
+        "contact": "27 31 63 35 15",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Dar Es Salam",
+        "commune": "BOUAKÉ",
+        "localisation": "Route de Katiola Près de la Polyclinique du Centre",
+        "type": "Pharmacie",
+        "contact": "27 31 63 10 16",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Commerce Kodjo",
+        "commune": "BOUAKÉ",
+        "localisation": "Quartier Commerce Avenue Houphouet Boigny",
+        "type": "Pharmacie",
+        "contact": "27 31 63 35 73",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Marché de gros",
+        "commune": "BOUAKÉ",
+        "localisation": "Face au Marché de gros",
+        "type": "Pharmacie",
+        "contact": "27 31 65 40 56",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Koko",
+        "commune": "BOUAKÉ",
+        "localisation": "Route du CHU",
+        "type": "Pharmacie",
+        "contact": "27 31 63 10 55 \/ 07 57 14 38 35",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Notre Dame de la Paix",
+        "commune": "BOUAKÉ",
+        "localisation": "Avenue Jacques Aka Grand Marché Face Gare UTB",
+        "type": "Pharmacie",
+        "contact": "27 31 64 85 85 \/ 07 48 54 69 71",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Sainte Catherine",
+        "commune": "BOUAKÉ",
+        "localisation": "Face Paroisse St Paul Gonfreville",
+        "type": "Pharmacie",
+        "contact": "05 66 68 22 72",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Ste Marie de N’Gattakro",
+        "commune": "BOUAKÉ",
+        "localisation": "Route de Béoumi en Face de l’Eglise CMA",
+        "type": "Pharmacie",
+        "contact": "27 31 63 16 17 \/ 01 02 50 32 77",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Aloès",
+        "commune": "DABOU",
+        "localisation": "Dabou, Gare Bouaké, près de la station Shell",
+        "type": "Soins ambulatoires",
+        "contact": "27 23 57 47 10 \/ 07 07 85 06 61",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Tehia",
+        "commune": "DABOU",
+        "localisation": "Dabou",
+        "type": "Pharmacie",
+        "contact": "01 40 27 55 03 \/ 07 08 15 00 21",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médico-Social Polyvalent",
+        "commune": "DALOA",
+        "localisation": "Quartier Huberson – Après le pont, non loin de la Pharmacie Huberson",
+        "type": "Soins ambulatoires",
+        "contact": "27 32 78 72 91 \/ 07 07 28 96 30",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Espoir",
+        "commune": "DALOA",
+        "localisation": "Non loin de l’Ecole Française Les Bougainvilliers",
+        "type": "Soins ambulatoires",
+        "contact": "01 02 20 60 80 \/ 07 48 13 79 05",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Grace Divine",
+        "commune": "DALOA",
+        "localisation": "Belleville - Près du Grand Marché, Non loin de la Pharmacie",
+        "type": "Soins ambulatoires",
+        "contact": "27 32 78 11 72 \/ 07 47 53 91 98",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Solidarité",
+        "commune": "DALOA",
+        "localisation": "Centre ville - Après la Pharmacie Lobia, Non loin de la Banque UBA",
+        "type": "Soins ambulatoires",
+        "contact": "07 07 32 53 44",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet dentaire Touré",
+        "commune": "DALOA",
+        "localisation": "Daloa",
+        "type": "Cabinets dentaires",
+        "contact": "07 09 62 39 47 \/ 01 03 20 75 85",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Net Vision",
+        "commune": "DALOA",
+        "localisation": "Route de la Grande Mosquée Daloa",
+        "type": "Opticiens",
+        "contact": "27 32 78 26 43 \/ 07 07 10 25 27",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "DALOA",
+        "nom": "NOUVELLE PHARMACIE APPAUL",
+        "type": "Pharmacie",
+        "localisation": "Quartier Commerce, en face de Sococe",
+        "contact": "27 32 78 35 78",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "17-05-2022 à 11:43:54"
+    },
+    {
+        "nom": "Centre Médical du Djiboua",
+        "commune": "DIVO",
+        "localisation": "Quartier Plateau, en face de la CIE",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 76 04 91 \/ 05 54 61 55 55",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Ahissa",
+        "commune": "DIVO",
+        "localisation": "Voie de la Gare, non loin du CHU, Konankro",
+        "type": "Soins ambulatoires",
+        "contact": "27 32 76 02 24 \/ 07 07 90 71 99",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Ahoukoua",
+        "commune": "DIVO",
+        "localisation": "Non loin de la Brigade de Gendarmerie - Dioulabougou",
+        "type": "Pharmacie",
+        "contact": "07 49 52 74 20",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de la Mairie",
+        "commune": "DIVO",
+        "localisation": "Près de la Mairie - Dioulabougou",
+        "type": "Pharmacie",
+        "contact": "27 32 76 30 75 \/ 05 05 87 58 63",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique du Fromager",
+        "commune": "GAGNOA",
+        "localisation": "Quartier Garayo – Près de la Gendarmerie",
+        "type": "Soins ambulatoires",
+        "contact": "27 32 77 24 31 \/ 27 32 77 25 01",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Le Ghery",
+        "commune": "GAGNOA",
+        "localisation": "Quartier Saint Georges",
+        "type": "Soins ambulatoires",
+        "contact": "27 32 77 26 22 \/ 05 05 04 50 27",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Ahouane",
+        "commune": "GAGNOA",
+        "localisation": " Quartier Babré",
+        "type": "Pharmacie",
+        "contact": "27 32 77 82 35 \/ 01 01 07 48 64",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Château",
+        "commune": "GAGNOA",
+        "localisation": "En Face de la Mosquée en bois - Dioulabougou",
+        "type": "Pharmacie",
+        "contact": "27 32 77 38 38",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Notre Dame de l’Immaculée Conception",
+        "commune": "GAGNOA",
+        "localisation": "En Face de la Clinique Le Fromager",
+        "type": "Pharmacie",
+        "contact": "27 32 77 24 88",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Sainte Pauline",
+        "commune": "GAGNOA",
+        "localisation": "Rue du Commerce",
+        "type": "Pharmacie",
+        "contact": "27 32 77 25 62",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Hope",
+        "commune": "GRAND-BASSAM",
+        "localisation": "Quartier Mockeyville, Lot 23 Ilot 76B",
+        "type": "Soins ambulatoires",
+        "contact": "01 71 62 62 07 \/ 07 58 11 31 54",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Sainte Famille",
+        "commune": "GRAND-BASSAM",
+        "localisation": "Ancienne Route de Bassam, Au-dessus de la Pharmacie Mockeyville",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 78 56 16 \/ 07 88 89 54 60",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Siloé",
+        "commune": "GRAND-BASSAM",
+        "localisation": "Route Internationale",
+        "type": "Soins ambulatoires",
+        "contact": "27 20 01 18 09 \/ 01 01 04 25 57 \/ 07 77 84 43 96",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Colombe",
+        "commune": "GRAND-BASSAM",
+        "localisation": "Non loin du No Limit Discothèque",
+        "type": "Pharmacie",
+        "contact": "27 21 30 38 52 \/ 27 21 30 17 94",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Marché",
+        "commune": "GRAND-BASSAM",
+        "localisation": "Boulevard Gouverneur Angoulvant, En Face du Marché",
+        "type": "Pharmacie",
+        "contact": "27 21 30 18 13",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie du Petit Marché",
+        "commune": "GRAND-BASSAM",
+        "localisation": "Au petit Marché",
+        "type": "Pharmacie",
+        "contact": "27 21 30 30 05 \/ 07 79 52 19 99",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Yele",
+        "commune": "GRAND-BASSAM",
+        "localisation": "Route de l’ancienne CIE Quartier Impérial",
+        "type": "Pharmacie",
+        "contact": "27 21 30 26 85 \/ 07 08 85 96 64",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "GUIGLO",
+        "nom": "Centre Médical Sainte Bernadée Sarl",
+        "type": "Soins ambulatoires",
+        "localisation": "Quartier Résidence en face de l’habitation familiale du Ministre Hulbert",
+        "contact": "27 33 70 47 85 \/ 05 05 63 92 67 \/ 07 48 98 38 17",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 23:30:07"
+    },
+    {
+        "nom": "Espace Médical Kayaf",
+        "commune": "ISSIA",
+        "localisation": "Rue du commerce",
+        "type": "Soins ambulatoires",
+        "contact": "07 77 52 42 48",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Divine Grâce",
+        "commune": "ISSIA",
+        "localisation": "Vers l’Hôpital Général",
+        "type": "Pharmacie",
+        "contact": "27 32 79 01 02 \/ 07 07 10 25 05",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Mienmoh",
+        "commune": "KORHOGO",
+        "localisation": "Derrière Hôtel Belle Côte Carrefour Mai Soukpafolo",
+        "type": "Soins ambulatoires",
+        "contact": "27 21 76 73 10 \/ 07 89 45 07 89",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Béthanie",
+        "commune": "KORHOGO",
+        "localisation": "Quartier Commerce, Face à la Coopec",
+        "type": "Soins ambulatoires",
+        "contact": "27 36 86 13 77 \/ 01 02 02 63 64 \/ 05 06 69 55 55",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical Notre Dame de l'Espérance",
+        "commune": "MAN",
+        "localisation": "Quartier Commerce - Man",
+        "type": "Soins ambulatoires",
+        "contact": "27 33 79 24 96 \/  01 42 69 39 83 \/ 05 05 19 73 39",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Lymanya",
+        "commune": "MAN",
+        "localisation": "Rue du Commerce, Face ex SGBCI",
+        "type": "Pharmacie",
+        "contact": "27 33 73 03 69 \/ 07 07 16 07 08",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médico-Social Ivoire Services",
+        "commune": "MÉAGUI",
+        "localisation": "Quartier Grutel -Méagui",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 72 61 12 \/ 07 07 40 69 07",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Espace médical Les Oliviers",
+        "commune": "N'ZIANOUA",
+        "localisation": "N’Zianouan",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 72 63 10",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Médical Divine Grace",
+        "commune": "SAN PÉDRO",
+        "localisation": "Sotres, Au-dessus de la Pharmacie Do",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 71 08 30 \/ 27 34 71 67 08",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical d’Ophtalmologie Iris",
+        "commune": "SAN PÉDRO",
+        "localisation": "Quartier Nitro, Face à l’Hôtel de la Paix",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 71 51 51 \/ 01 02 03 59 28 \/ 07 07 03 80 80",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Médical La Vie",
+        "commune": "SAN PÉDRO",
+        "localisation": "San-Pédro",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 71 50 98 \/ 07 78 70 71 88",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Centrale de San Pédro",
+        "commune": "SAN PÉDRO",
+        "localisation": "Quartier Cité près de l'Eglise Méthodiste Unie",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 71 10 76 \/ 07 07 84 02 77",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Begnanko",
+        "commune": "SAN PÉDRO",
+        "localisation": "San-Pédro",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 71 15 78 \/ 07 07 98 89 62",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie Du Grand Marché",
+        "commune": "SAN PÉDRO",
+        "localisation": "San-Pédro Grand Marché",
+        "type": "Pharmacie",
+        "contact": "27 34 71 55 55 \/ 27 34 71 56 67",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "Nouvelle Pharmacie De La Cite",
+        "type": "Pharmacie",
+        "localisation": "QUARTIER LAC- AU ROND-POINT",
+        "contact": "27 34 71 11 71",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:52:00"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "GRANDE PHARMACIE NOUR",
+        "type": "Pharmacie",
+        "localisation": "Non loin de la Gare",
+        "contact": "01 03 01 43 01 \/ 01 01 08 19 60",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:07:28"
+    },
+    {
+        "nom": "Centre Médico-Chirurgical La Sainte Trinité",
+        "commune": "SOUBRÉ",
+        "localisation": "Soubré",
+        "type": "Soins ambulatoires",
+        "contact": "07 58 58 58 06",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médico-Chirurgicale Val de Grace",
+        "commune": "SOUBRÉ",
+        "localisation": "Route de San-Pédro, Non loin de l’Hôpital Général de Soubré",
+        "type": "Soins ambulatoires",
+        "contact": "27 34 70 10 62 \/ 07 07 16 58 68",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de la Gare",
+        "commune": "SOUBRÉ",
+        "localisation": "Face à la gare UTB",
+        "type": "Pharmacie",
+        "contact": "27 34 72 28 77 \/ 07 48 14 13 27",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de la Mairie",
+        "commune": "SOUBRÉ",
+        "localisation": "Entrée Camp Mahoua – Carrefour de la Mairie",
+        "type": "Pharmacie",
+        "contact": "27 34 72 30 75 \/ 01 01 47 51 79",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie de la Mosquée",
+        "commune": "SOUBRÉ",
+        "localisation": "Quartier Daba Dagnogo - En face de la Grande Mosquée",
+        "type": "Pharmacie",
+        "contact": "07 67 25 98 65 \/ 07 07 89 95 83",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Clinique Médicale Espérance",
+        "commune": "TOUMODI",
+        "localisation": "Quartier Kodoubo, Route de Dimbokro",
+        "type": "Soins ambulatoires",
+        "contact": "07 07 84 02 20 \/ 05 05 05 80 40 \/  27 30 62 90 39",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Lu Vision Plus",
+        "commune": "TOUMODI",
+        "localisation": "Ancienne route de Yamoussoukro non loin de l’Eglise Catholique Abidjan",
+        "type": "Opticiens",
+        "contact": "07 79 00 24 74 \/ 01 53 65 11 42",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Cabinet Médical d’Ophtalmologie",
+        "commune": "YAMOUSSOUKRO",
+        "localisation": "Quartier Dioulakro route principale Immeuble Haida",
+        "type": "Soins ambulatoires",
+        "contact": "27 30 64 27 95",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Centre Ophtalmologique de Kami",
+        "commune": "YAMOUSSOUKRO",
+        "localisation": "Kami",
+        "type": "Soins ambulatoires",
+        "contact": "27 30 64 32 30 \/ 07 49 80 02 96",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Groupe Médical Saint Sauveur",
+        "commune": "YAMOUSSOUKRO",
+        "localisation": "Voie du Cyclone Bar, Non loin de l'Hôtel le Repos, Quartier Habitat",
+        "type": "Soins ambulatoires",
+        "contact": "27 30 64 64 01 \/ 07 08 42 42 33",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie et Laboratoire Agbassi",
+        "commune": "YAMOUSSOUKRO",
+        "localisation": "Gare de Toumodi, en face du Grand Marché - Quartier Energie",
+        "type": "Laboratoires",
+        "contact": "27 30 64 04 12 \/ 01 03 97 01 40",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Art et Vision",
+        "commune": "YAMOUSSOUKRO",
+        "localisation": "Boulevard Mamie Adjoua près de l’alliance Franco-Ivoirienne, face à la Coopec",
+        "type": "Opticiens",
+        "contact": "27 30 64 11 10 \/ 01 42 88 63 33",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Maj Opticien",
+        "commune": "YAMOUSSOUKRO",
+        "localisation": "Yamoussoukro",
+        "type": "Opticiens",
+        "contact": "07 57 61 78 11",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "nom": "Pharmacie et Laboratoire Agbassi",
+        "commune": "YAMOUSSOUKRO",
+        "localisation": "Gare de Toumodi, en face du Grand Marché - Quartier Energie",
+        "type": "Pharmacie",
+        "contact": "27 30 64 04 12 \/ 01 03 97 01 40",
+        "details": "modifié par Administrateur",
+        "date": "01-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "KOUMASSI",
+        "nom": "Pharmacie du canal",
+        "type": "Pharmacie",
+        "localisation": " ENTRE LE CARREFOUR GABI FEU TRICOLORE ET CARREFOUR MILLENIUM, 80M DU MAQUIS LE TAPIS ROUGE",
+        "contact": "07 47 31 80 16 \/27 21 36 27 48\/27 21 56 48 01",
+        "details": "modifié par Samuel.Blay",
+        "date": "03-11-2021 à 09:50:48"
+    },
+    {
+        "commune": "TREICHVILLE",
+        "nom": "Pharmacie ste adele",
+        "type": "Pharmacie",
+        "localisation": " FAÇADE ARRIÈRE DU MARCHÉ BELLEVILLE, FACE QUARTIER GBATANIKRO - MARCHÉ BELLEVILLE",
+        "contact": "21 25 47 00\/07 66 81 35 \/ 84 04 44 46",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:41:44"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "Pharmacie les 3 ponts",
+        "type": "Pharmacie",
+        "localisation": "EN FACE DE LA PMI YOPOUGON",
+        "contact": "2723454370",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:48:13"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "PHARMACIE ROI DAVID",
+        "type": "Pharmacie",
+        "localisation": "ROUTE DE L'AÉROPORT- QUARTIER JULES FERRY A 50 M",
+        "contact": "42 61 61 60 \/08 30 86  39",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:50:20"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "PHARMACIE DU GD-MARCHE",
+        "type": "Pharmacie",
+        "localisation": "GRAND MARCHÉ",
+        "contact": "01 14 73 10\/07 86 38 39",
+        "details": "modifié par Samuel.Blay",
+        "date": "11-10-2021 à 08:52:50"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "PHARMACIE DU BIEN ETRE",
+        "type": "Pharmacie",
+        "localisation": "Quartier Soleil, Route de Grand Bereby près du Collège La Fayette",
+        "contact": "01 02 03 22 84 \/ 07 08 29 98 07",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:12:55"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "PHARMACIE SELMER",
+        "type": "Pharmacie",
+        "localisation": "Pres de la mairie de yopougon",
+        "contact": "07 07 33 58 06\/01 03 13 79 87",
+        "details": "modifié par Samuel.Blay",
+        "date": "15-10-2021 à 10:50:22"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "PHARMACIE LES BEATITUDES",
+        "type": "Pharmacie",
+        "localisation": "1er arrêt du bus 37 - nouveau quartier",
+        "contact": "01 02 76 36 60",
+        "details": "modifié par Samuel.Blay",
+        "date": "15-10-2021 à 10:50:00"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "NOUVELLE PHARMACIE TOIT ROUGE",
+        "type": "Pharmacie",
+        "localisation": "Non loin de la BAE, toits rouges",
+        "contact": "27 23 45 16 93",
+        "details": "modifié par Samuel.Blay",
+        "date": "15-10-2021 à 10:51:11"
+    },
+    {
+        "commune": "ABOBO",
+        "nom": "CLINIQUE MEDICALE CŒUR D'ESPERANCE",
+        "type": "Soins ambulatoires",
+        "localisation": "NOUVEAU QUARTIER ; CARREFOUR LAMA FOFANA",
+        "contact": "07 78 34 19 80",
+        "details": "modifié par Samuel.Blay",
+        "date": "19-10-2021 à 08:28:08"
+    },
+    {
+        "commune": "MARCORY",
+        "nom": "CLINIQUE MEDICALE SAINTES MYRIADES",
+        "type": "Soins ambulatoires",
+        "localisation": "Rues des Citronniers , marcory Residentiel",
+        "contact": "01 43 17 41 51 \/ 07 77 98 12 39",
+        "details": "modifié par Samuel.Blay",
+        "date": "03-11-2021 à 09:52:19"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "GROUPE MEDICAL BOZOUMA",
+        "type": "Soins ambulatoires",
+        "localisation": "À la riviéra bonoumin . Entre le centre commercial abidjan mall et la cite abri 2000",
+        "contact": "05 05 02 90 19 \/ 07 79 86 97 32",
+        "details": "modifié par Samuel.Blay",
+        "date": "03-11-2021 à 09:54:35"
+    },
+    {
+        "commune": "PLATEAU",
+        "nom": "ESPACE CABINET DENTAIRE CHARDY",
+        "type": "Soins ambulatoires",
+        "localisation": "25 avenue chardy. immeuble chardy, le plateau.",
+        "contact": "27 20 21 73 60",
+        "details": "modifié par Samuel.Blay",
+        "date": "03-11-2021 à 09:57:30"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "Pharmacie Sainte Agnès",
+        "type": "Pharmacie",
+        "localisation": "Riviera bonoumin \/ carrefour top pain terminus woro-woro entre les résidences émeraude IV abri 2000 1 et le rond point ADO",
+        "contact": "07 07 78 87 45",
+        "details": "modifié par Samuel.Blay",
+        "date": "05-11-2021 à 10:27:22"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "Pharmacie Cosmos",
+        "type": "Pharmacie",
+        "localisation": "San-pedro, quartier digboue résidentiel",
+        "contact": "07 88 17 84 17",
+        "details": "modifié par Samuel.Blay",
+        "date": "05-11-2021 à 15:40:58"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "CABINET DENTAIRE LATRILLE",
+        "type": "Cabinets dentaires",
+        "localisation": "BOULEVARD LATRILLE, Carrefour Opera, immeuble CERAO",
+        "contact": "07 77 87 89 72",
+        "details": "modifié par Samuel.Blay",
+        "date": "27-12-2021 à 09:30:03"
+    },
+    {
+        "commune": "KOUMASSI",
+        "nom": "CENTRE MEDICAL NOTRE DAME DE LOURDES",
+        "type": "Soins ambulatoires",
+        "localisation": "REMBLAIS NON LOIN DE LA PHARMACIE DES SABLES",
+        "contact": "05 05 65 36 66",
+        "details": "modifié par Samuel.Blay",
+        "date": "27-12-2021 à 09:31:22"
+    },
+    {
+        "commune": "PORT BOUËT",
+        "nom": "CENTRE MEDICAL EMERAUDE",
+        "type": "Soins ambulatoires",
+        "localisation": "situé à 150 mètres 43ieme BIMA , non loin de la PHARMACIE OCEAN",
+        "contact": "27 21 27 57 58",
+        "details": "modifié par Samuel.Blay",
+        "date": "27-12-2021 à 09:32:54"
+    },
+    {
+        "commune": "BONOUA",
+        "nom": "PHARMACIE EDEN",
+        "type": "Pharmacie",
+        "localisation": "Non loin de la CNPS",
+        "contact": "27 21 31 02 07 \/ 07 58 09 46 67",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:28:49"
+    },
+    {
+        "commune": "BONOUA",
+        "nom": "PHARMACIE EBENEZER",
+        "type": "Pharmacie",
+        "localisation": "Face à la Gare routière",
+        "contact": "27 21 30 90 55 \/ 01 02 80 20 08",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:29:40"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "NOUVELLE PHARMACIE CHRIST ROI",
+        "type": "Pharmacie",
+        "localisation": "Yopougon Toits rouges non loin du Carrefour Jean-Paul II",
+        "contact": "27 23 53 78 76 \/ 07 47 49 08 09",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:30:32"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "PRUNELLE VISION",
+        "type": "Opticiens",
+        "localisation": "Angré Boulevard des Martyrs à côté de Agence Emploi Jeunes Prestige",
+        "contact": "07 49 21 93 73 \/ 01 52 75 06 55",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:31:38"
+    },
+    {
+        "commune": "YOPOUGON",
+        "nom": "GEM OPTIC",
+        "type": "Opticiens",
+        "localisation": "Face Pharmacie Toits rouges",
+        "contact": "07 57 94 94 14 \/ 01 01 08 68 58",
+        "details": "modifié par Samuel.Blay",
+        "date": "14-02-2022 à 09:34:04"
+    },
+    {
+        "commune": "YAMOUSSOUKRO",
+        "nom": "PHARMACIE DES 220 LOGEMENTS",
+        "type": "Pharmacie",
+        "localisation": "Rue des Banques face Mofaitai, entre la BICICI et la Gare UTB ",
+        "contact": "27 30 64 22 05 \/ 07 58 46 00 33",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "15-02-2022 à 14:30:57"
+    },
+    {
+        "commune": "GAGNOA",
+        "nom": "GRAND CENTRE MEDICAL SAINT CLEMENT",
+        "type": "Soins ambulatoires",
+        "localisation": "Entre le CHR et la CNPS",
+        "contact": "07 09 02 73 63",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "15-02-2022 à 14:43:41"
+    },
+    {
+        "commune": "BONOUA",
+        "nom": "CENTRE MEDICAL SAINT JEAN ",
+        "type": "Soins ambulatoires",
+        "localisation": "Paris Village",
+        "contact": "01 02 03 51 71 \/ 01 41 78 84 18",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-02-2022 à 14:06:44"
+    },
+    {
+        "commune": "BOUAKÉ",
+        "nom": "BOUAKE OPTIQUE",
+        "type": "Opticiens",
+        "localisation": "Quartier Commerce, Immeuble Axa",
+        "contact": "27 31 63 26 74 \/ 07 09 09 78 44",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "23-02-2022 à 11:16:36"
+    },
+    {
+        "commune": "MARCORY",
+        "nom": "MONDIAL OPTIC PLUS",
+        "type": "Opticiens",
+        "localisation": "Marcory Résidentiel, Rue de la Paix entre Immeuble Bon samaritain et la SGBCI",
+        "contact": "25 21 00 04 86 \/ 07 77 77 15 83",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "23-02-2022 à 11:21:59"
+    },
+    {
+        "commune": "BOUAKÉ",
+        "nom": "CLINIQUE MEDICALE SAINTE MADELEINE",
+        "type": "Soins ambulatoires",
+        "localisation": "Centre commercial non loin de la RTI",
+        "contact": "27 31 63 87 02 \/ 07 09 10 10 50",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "23-02-2022 à 11:32:51"
+    },
+    {
+        "commune": "GUIGLO",
+        "nom": "PHARMACIE DU MARCHE DE GUIGLO",
+        "type": "Pharmacie",
+        "localisation": "En face du grand Marché",
+        "contact": "27 33 70 40 68\/ 07 79 49 61 02 \/ 05 46 48 95 30",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "23-02-2022 à 11:36:28"
+    },
+    {
+        "commune": "PORT BOUËT",
+        "nom": "OCEAN VISION",
+        "type": "Opticiens",
+        "localisation": "Centre commercial Océan, à 15m du 43è BIMA",
+        "contact": "27 21 27 93 26 \/ 05 06 80 73 35 \/ 01 02 85 80 20",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "24-02-2022 à 14:24:16"
+    },
+    {
+        "commune": "BONOUA",
+        "nom": "CABINET MEDICO-CHIRURGICAL SAINTE HENRIETTE",
+        "type": "Soins ambulatoires",
+        "localisation": "Entrée de Bonoua, non loin de la Gare",
+        "contact": "27 21 30 07 68",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "02-03-2022 à 13:11:25"
+    },
+    {
+        "commune": "BOUAKÉ",
+        "nom": "CENTRE D'IMAGERIE MEDICALE ET D'ANALYSE (CIMAB)",
+        "type": "Laboratoires et Radiologie",
+        "localisation": "Quartier Commerce, non loin de la CIE",
+        "contact": "27 31 63 21 63 \/ 07 77 51 98 38",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "03-03-2022 à 15:24:42"
+    },
+    {
+        "commune": "BOUAKÉ",
+        "nom": "PHARMACIE NOTRE DAME DE L'ESPERANCE",
+        "type": "Pharmacie",
+        "localisation": "Air France, Immeuble Le Label, entre le pont Djibo et les Sapeurs Pompiers ",
+        "contact": "27 31 63 34 11 \/ 07 07 70 81 27",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "03-03-2022 à 15:31:08"
+    },
+    {
+        "commune": "GUIGLO",
+        "nom": "PHARMACIE DE GUIGLO",
+        "type": "Pharmacie",
+        "localisation": "En face du Lycée Moderne",
+        "contact": "27 33 70 51 42 \/ 07 77 09 85 37",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 16:29:59"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "POLYCLINIQUE LA SISANGUE",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Quartier Commerce, à proximité de GTKA",
+        "contact": "27 37 86 07 42 \/ 07 07 09 43 60 \/ 07 77 24 91 31",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 00:04:39"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "PHARMACIE DU MARCHE",
+        "type": "Pharmacie",
+        "localisation": "Grand Marché",
+        "contact": "27 36 85 17 08 \/ 07 07 71 40 71 \/ 07 57 14 38 54 ",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 16:41:28"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "PHARMACIE DU MONT KORHOGO",
+        "type": "Pharmacie",
+        "localisation": "Non loin de la Sous-Préfecture",
+        "contact": "27 36 86 06 47",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 16:49:58"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "PHARMACIE NOTRE DAME",
+        "type": "Pharmacie",
+        "localisation": "En face de l'Ecole de Police",
+        "contact": "27 36 86 37 90",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 16:53:44"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "PHARMACIE NOUR",
+        "type": "Pharmacie",
+        "localisation": "Quartier14, près du CHR",
+        "contact": "27 36 86 07 39 \/ 07 07 29 02 03",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 16:55:25"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "PHARMACIE PALAIS DE JUSTICE",
+        "type": "Pharmacie",
+        "localisation": "Quartier résidentiel près du CHR",
+        "contact": "27 36 85 37 55 \/ 05 85 06 86 82",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 17:19:25"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "PHARMACIE SOBA",
+        "type": "Pharmacie",
+        "localisation": "Quartier Soba",
+        "contact": "27 36 86 37 39 \/ 07 07 51 56 53",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 17:30:23"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "PHARMACIE TCHERGNIM",
+        "type": "Pharmacie",
+        "localisation": "Route Ferkessédougou face au Domicile Kassoum Coulibaly",
+        "contact": "27 36 86 23 15",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "10-03-2022 à 17:33:05"
+    },
+    {
+        "commune": "FERKESSÉDOUGOU",
+        "nom": "HOPITAL GENERAL DE FERKESSEDOUGOU",
+        "type": "Soins ambulatoires",
+        "localisation": "Quartier fonctionnaire",
+        "contact": "27 36 86 81 35 \/ 07 87 49 24 72",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "14-03-2022 à 11:09:22"
+    },
+    {
+        "commune": "FERKESSÉDOUGOU",
+        "nom": "PHARMACIE DE FERKE",
+        "type": "Pharmacie",
+        "localisation": "Quartier Commerce, face King Cash",
+        "contact": "27 36 86 81 46",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "14-03-2022 à 11:12:01"
+    },
+    {
+        "commune": "BOUAKÉ",
+        "nom": "POLYCLINIQUE KENNEDY",
+        "type": "Soins ambulatoires",
+        "localisation": "Quartier Kennedy derrière la Station Total",
+        "contact": "07 08 48 44 18 \/ 07 89 24 13 03",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "14-03-2022 à 11:18:53"
+    },
+    {
+        "commune": "KOUMASSI",
+        "nom": "PHARMACIE KAHIRA",
+        "type": "Pharmacie",
+        "localisation": "Koumassi Remblais, Boulevard du Cameroun Ligne bus 05, Paroisse Ste Bernadette",
+        "contact": "27 21 36 39 84",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "14-03-2022 à 15:43:45"
+    },
+    {
+        "commune": "KATIOLA",
+        "nom": "CLINIQUE MEDICO-CHIRURGICALE KAKOUMANI KATIOLA",
+        "type": "Soins ambulatoires",
+        "localisation": "Non loin du poste de Police",
+        "contact": "01 41 21 46 11 \/ 07 07 11 01 80",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "15-03-2022 à 17:26:08"
+    },
+    {
+        "commune": "KATIOLA",
+        "nom": "PHARMACIE KATIO",
+        "type": "Pharmacie",
+        "localisation": "Katiola",
+        "contact": "27 31 66 04 55",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "15-03-2022 à 17:29:32"
+    },
+    {
+        "commune": "GUIGLO",
+        "nom": "PHARMACIE MAIRIE DE GUIGLO",
+        "type": "Pharmacie",
+        "localisation": "Quartier Sea Yoro, en face du Commissariat",
+        "contact": "07 57 02 02 28 \/ 07 88 86 86 06",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-03-2022 à 14:46:05"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "PHARMACIE DU LYCEE TECHNIQUE",
+        "type": "Pharmacie",
+        "localisation": "Cocody, Ancienne route de Bingerville, 106 Rue du Lycée Technique",
+        "contact": "27 22 44 60 77 \/ 07 07 03 77 72",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "25-03-2022 à 12:59:42"
+    },
+    {
+        "commune": "ABOISSO",
+        "nom": "PHARMACIE DU SANWI",
+        "type": "Pharmacie",
+        "localisation": "Aboisso",
+        "contact": "27 21 30 43 82",
+        "details": "modifié par .",
+        "date": "31-03-2022 à 18:55:34"
+    },
+    {
+        "commune": "ABOISSO",
+        "nom": "PHARMACIE NOTRE DAME DES VICTOIRES D'ASSOUBA",
+        "type": "Pharmacie",
+        "localisation": "Assouba",
+        "contact": "05 55 60 52 52",
+        "details": "modifié par .",
+        "date": "31-03-2022 à 18:58:50"
+    },
+    {
+        "commune": "ABOISSO",
+        "nom": "PHARMACIE DIVINE MISERICORDE",
+        "type": "Pharmacie",
+        "localisation": "Quartier TP, en face de la poste",
+        "contact": "27 21 30 43 58 \/ 07 77 06 08 13",
+        "details": "modifié par .",
+        "date": "31-03-2022 à 19:01:16"
+    },
+    {
+        "commune": "ABOISSO",
+        "nom": "CENTRE MEDICAL SANWI",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Aboisso",
+        "contact": "01 42 32 37 10",
+        "details": "modifié par .",
+        "date": "31-03-2022 à 19:06:07"
+    },
+    {
+        "commune": "ABOISSO",
+        "nom": "CLINIQUE MEDICALE SAINTE FAMILLE",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie",
+        "localisation": "Aboisso, Face à la Mairie",
+        "contact": "27 21 30 45 05 \/ 27 21 30 46 45 \/ 07 48 43 13 06",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "08-04-2022 à 13:46:29"
+    },
+    {
+        "commune": "ABOISSO",
+        "nom": "PHARMACIE DU MARCHE",
+        "type": "Pharmacie",
+        "localisation": "Aboisso, Place Eleingand",
+        "contact": "27 21 30 40 63",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "08-04-2022 à 13:24:46"
+    },
+    {
+        "commune": "ADIAKÉ",
+        "nom": "PHARMACIE D'ADIAKE",
+        "type": "Pharmacie",
+        "localisation": "Adiaké, non loin de la COOPEC",
+        "contact": "27 21 30 71 35 \/ 07 57 24 05 58",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "08-04-2022 à 13:39:20"
+    },
+    {
+        "commune": "ADIAKÉ",
+        "nom": "HOPITAL GENERAL D'ADIAKE",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Adiaké, en face de la Préfecture",
+        "contact": "27 21 30 70 40 \/ 05 05 59 42 17",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "08-04-2022 à 13:38:11"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "GRANDE PHARMACIE DE SEWEKE",
+        "type": "Pharmacie",
+        "localisation": "Quartier Seweké 5 Carrefour Iroko Rue des Maquis",
+        "contact": "25 34 00 05 57",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "11-04-2022 à 15:18:56"
+    },
+    {
+        "commune": "BINGERVILLE",
+        "nom": "CLINIQUE MEDICALE FEH KESSE",
+        "type": "Soins ambulatoires",
+        "localisation": "Cité Feh Kessé",
+        "contact": "07 07 77 64 37",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "12-04-2022 à 23:48:32"
+    },
+    {
+        "commune": "ANYAMA",
+        "nom": "CLINIQUE H SANTE",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Anyama",
+        "contact": "07 89 20 00 34",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "12-04-2022 à 23:51:51"
+    },
+    {
+        "commune": "FERKESSÉDOUGOU",
+        "nom": "PHARMACIE PRINCIPALE DE FERKE",
+        "type": "Pharmacie",
+        "localisation": "Carrefour de l'Hôpital Général",
+        "contact": "27 36 86 84 75 \/ 07 07 24 20 97",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "12-04-2022 à 23:55:34"
+    },
+    {
+        "commune": "BONDOUKOU",
+        "nom": "OPTICIENS VISAGISTES",
+        "type": "Opticiens",
+        "localisation": "Bondoukou",
+        "contact": "27 35 91 53 78",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "12-04-2022 à 23:57:47"
+    },
+    {
+        "commune": "SOUBRÉ",
+        "nom": "OPTICIENS VISAGISTES",
+        "type": "Opticiens",
+        "localisation": "Soubré",
+        "contact": "27 34 72 51 82",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "12-04-2022 à 23:59:14"
+    },
+    {
+        "commune": "KORHOGO",
+        "nom": "OPTICIENS VISAGISTES",
+        "type": "Opticiens",
+        "localisation": "Korhogo",
+        "contact": "27 36 85 03 13",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 00:01:28"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "OPTICIENS VISAGISTES",
+        "type": "Opticiens",
+        "localisation": "San-Pédro",
+        "contact": "27 34 71 35 37",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 00:02:20"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "CENTRE MEDICAL CONFESSIONNEL PRIVE CMR3",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Cocody, Riviera 3 non loin de la Mosquée, entre KFC et Ecole publique Koelstrom",
+        "contact": "27 22 59 14 79 \/ 07 49 49 00 81",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 10:33:32"
+    },
+    {
+        "commune": "TABOU",
+        "nom": "CLINIQUE MEDICALE LES OLIVIERS DE TABOU",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Tabou",
+        "contact": "27 21 77 95 43 \/ 07 04 43 47 80",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 18:12:48"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "ESPACE MEDICAL PASTEUR",
+        "type": "Soins ambulatoires",
+        "localisation": "Cité Poro",
+        "contact": "27 34 71 86 06 \/ 07 07 20 24 70",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "13-04-2022 à 18:15:20"
+    },
+    {
+        "commune": "ADJAME",
+        "nom": "CABINET DENTAIRE DELORVIE",
+        "type": "Cabinets dentaires",
+        "localisation": "Non loin de Fraternité Matin",
+        "contact": "27 20 37 24 31 \/ 01 71 98 85 64",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "14-04-2022 à 17:14:05"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "CLINIQUE NOTRE DAME DE L'INCARNATION",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie",
+        "localisation": "Rond point Riviera Palmeraie, non loin de la BICICI",
+        "contact": "27 22 49 15 05 \/  27 22 49 15 35",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "15-04-2022 à 15:45:17"
+    },
+    {
+        "commune": "ABOISSO",
+        "nom": "CENTRE HOSPITALIER REGIONAL D'ABOISSO",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Aboisso",
+        "contact": "27 21 30 43 86",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-04-2022 à 11:23:40"
+    },
+    {
+        "commune": "SASSANDRA",
+        "nom": "CENTRE MEDICAL SAINT ANDRE",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Sassandra",
+        "contact": "05 05 35 92 76 \/ 07 07 80 74 15",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-04-2022 à 11:44:05"
+    },
+    {
+        "commune": "SASSANDRA",
+        "nom": "HOPITAL GENERAL DE SASSANDRA",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Sassandra",
+        "contact": "27 34 72 05 47",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-04-2022 à 11:45:46"
+    },
+    {
+        "commune": "SASSANDRA",
+        "nom": "PHARMACIE DE SASSANDRA",
+        "type": "Pharmacie",
+        "localisation": "Sassandra",
+        "contact": "27 34 72 04 57",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-04-2022 à 12:10:02"
+    },
+    {
+        "commune": "SASSANDRA",
+        "nom": "PHARMACIE SARAH-ANNA",
+        "type": "Pharmacie",
+        "localisation": "Non loin du Wharf de Sassandra",
+        "contact": "27 34 72 03 23",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:27:04"
+    },
+    {
+        "commune": "BOUAKÉ",
+        "nom": "CLINIQUE MEDICO-CHIRURGICALE NANAN (CMENA)",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Bouaké N'Guattakro",
+        "contact": "27 31 63 35 63 \/ 05 05 02 27 77 \/ 07 08 55 76 18 ",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "16-04-2022 à 14:19:58"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "PHARMACIE NABENOU",
+        "type": "Pharmacie",
+        "localisation": "Quartier Cité près du petit marché",
+        "contact": "27 35 71 45 45",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:15:29"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "PHARMACIE MADOU",
+        "type": "Pharmacie",
+        "localisation": "Quartier Seweké 1",
+        "contact": "27 34 71 15 51",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:16:56"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "PHARMACIE JEHOVAH-RAPHA",
+        "type": "Pharmacie",
+        "localisation": "Non loin de l'Aéroport",
+        "contact": "01 43 17 24 58",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:24:20"
+    },
+    {
+        "commune": "SASSANDRA",
+        "nom": "PHARMACIE DES PALMES",
+        "type": "Pharmacie",
+        "localisation": "Sassandra",
+        "contact": "07 59 90 26 78",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:32:23"
+    },
+    {
+        "commune": "TABOU",
+        "nom": "PHARMACIE DES GRACES DE TABOU",
+        "type": "Pharmacie",
+        "localisation": "Tabou",
+        "contact": "07 09 37 88 18",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "18-04-2022 à 19:35:45"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "PHARMACIE DU LAC",
+        "type": "Pharmacie",
+        "localisation": "Quartier Lac",
+        "contact": "27 34 71 15 69 \/ 05 05 89 22 54",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "20-04-2022 à 17:54:15"
+    },
+    {
+        "commune": "COCODY",
+        "nom": "PHARMACIE RIVIERA M'BADON",
+        "type": "Pharmacie",
+        "localisation": "Cocody, Riviera M'badon près de l'Ambassade de Chine",
+        "contact": "27 24 31 67 12 \/ 07 59 37 20 39",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "21-04-2022 à 09:39:30"
+    },
+    {
+        "commune": "GAGNOA",
+        "nom": "ANOPTIC GAGNOA",
+        "type": "Opticiens",
+        "localisation": "Quartier Commerce, en face de la Sous-Préfecture",
+        "contact": "05 00 71 77 11 \/ 07 78 49 20 10",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "22-04-2022 à 09:37:23"
+    },
+    {
+        "commune": "ADZOPÉ",
+        "nom": "NOUVELLE CLINIQUE SAINT JOSEPH LE BATISSEUR ADZOPE",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie, Cabinets dentaires",
+        "localisation": "Quartier Sogefiha",
+        "contact": "27 24 54 00 01 \/ 07 77 27 27 18",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "27-04-2022 à 13:15:54"
+    },
+    {
+        "commune": "ODIENNE",
+        "nom": "PHARMACIE DES FRONTIERES",
+        "type": "Pharmacie",
+        "localisation": "Centre ville",
+        "contact": "27 33 70 85 81 \/ 07 09 46 72 38 \/ 05 44 93 65 22",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "17-05-2022 à 09:34:58"
+    },
+    {
+        "commune": "SAN PÉDRO",
+        "nom": "CABINET DENTAIRE CSA SAN PEDRO",
+        "type": "Cabinets dentaires",
+        "localisation": "Quartier Sewéké 5 dans le prolongement de la 5ème légion de la gendarmerie de San Pédro",
+        "contact": "01 03 91 26 92",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "17-05-2022 à 09:44:47"
+    },
+    {
+        "commune": "ABENGOUROU",
+        "nom": "PHARMACIE DU COMMERCE",
+        "type": "Pharmacie",
+        "localisation": "Quartier Commerce face BICICI",
+        "contact": "27 35 91 47 38 \/ 07 07 65 39 85",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "17-05-2022 à 16:29:37"
+    },
+    {
+        "commune": "ODIENNE",
+        "nom": "GROUPE MEDICAL DR FOFANA",
+        "type": "Soins ambulatoires, Laboratoires et Radiologie",
+        "localisation": "Quartier résidentiel",
+        "contact": "07 09 92 81 77",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "17-05-2022 à 16:33:08"
+    },
+    {
+        "commune": "ABOBO",
+        "nom": "ELITE VISION",
+        "type": "Opticiens",
+        "localisation": "Abobo, derrière la Nouvelle Pharmacie de la Mé",
+        "contact": "25 24 00 18 64 \/ 01 01 02 41 68 \/ 05 04 62 52 82 ",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "22-05-2022 à 14:43:21"
+    },
+    {
+        "commune": "MARCORY",
+        "nom": "GOD OPTIC",
+        "type": "Opticiens",
+        "localisation": "Marcory résidentiel, Immeuble le bon Samaritain",
+        "contact": "27 21 56 66 59 \/ 07 77 32 32 77",
+        "details": "modifié par Gertrude.Kouassi",
+        "date": "24-05-2022 à 12:29:05"
+    }
+]

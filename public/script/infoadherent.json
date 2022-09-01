@@ -1,0 +1,134 @@
+[
+    {"civilite":[
+        {"titre":"Marié"},
+        {"titre":"Célibataire"},
+        {"titre":"Divorcé"},
+        {"titre":"Veuf/ve"}
+        ]
+    },  
+    {"piece_identite":[
+        {"piece":"Attestation d'identité",
+            "id":"attestation id"},
+        {"piece":"Carte nationale d'identité",
+            "id":"cni"},
+        {"piece":"Extrait de naissance",
+            "id":"extrait naissance"},
+        {"piece":"Passport",
+            "id":"passport"},
+        {"piece":"Permis de conduire",
+            "id":"permis conduire"}
+    ]},
+    {"lien_parente":[
+        {"lien":"Fille"},
+        {"lien":"Fils"},
+        {"lien":"Neveux"},
+        {"lien":"Nièce"},
+        {"lien":"Epouse"},
+        {"lien":"Epoux"},
+        {"lien":"Conjoint(e)"}
+        ]},
+    {"groupe_sanguin":[
+        {"groupe":"A+"},
+        {"groupe":"A-"},
+        {"groupe":"B+"},
+        {"groupe":"B-"},
+        {"groupe":"O+"},
+        {"groupe":"O-"},
+        {"groupe":"AB+"},
+        {"groupe":"AB-"},
+        {"groupe":"Je ne sais pas"}
+    ]},
+    {"activites":[
+        {"activite":"Activités d'actions sociales"},
+        {"activite":"Activités d'administration publique"},
+        {"activite":"Activités de fabrication"},
+        {"activite":"Activités Minières"},
+        {"activite":"Activités Religieuse"},
+        {"activite":"Agriculture"},
+        {"activite":"Art et Divertissement"},
+        {"activite":"Batiment Travaux Publiques"},
+        {"activite":"Commerce"},
+        {"activite":"Communication"},
+        {"activite":"Education"},
+        {"activite":"Etudes et Conseils"},
+        {"activite":"Finance"},
+        {"activite":"Hôtellerie et Restauration"},
+        {"activite":"Immobilier"},
+        {"activite":"Informatique et Technologie"},
+        {"activite":"Locations et services aux entreprises"},
+        {"activite":"Locations et services aux particuliers"},
+        {"activite":"Production et distribution d'Energie"},
+        {"activite":"Réparation d'articles domestiques"},
+        {"activite":"Réparation de machines"},
+        {"activite":"Réparation de véhicules"},
+        {"activite":"Santé"},
+        {"activite":"Transport"}
+    ]},
+    {"categorie_professionnelles":[
+        {
+            "categorie": "Cadre",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "Chef de département",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "Directeur Général",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "Directeur",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "Employé",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "President Directeur Général",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "Profession libérale",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "Ouvrier",
+            "categorie2": "ordinaire"
+        },
+        {
+            "categorie": "Ancien",
+            "categorie2": "d-none Religieuse"
+        },
+        {
+            "categorie": "Chantre",
+            "categorie2": "d-none Religieuse"
+        },
+        {
+            "categorie": "Diacre",
+            "categorie2": "d-none Religieuse"
+        },
+        {
+            "categorie": "Fondateur",
+            "categorie2": "d-none Religieuse"
+        },
+        {
+            "categorie": "Pasteur",
+            "categorie2": "d-none Religieuse"
+        }
+        
+    ]
+    }, {
+        "categorie_professionnellesE": [{
+                "categorie": "Etudiant"
+            },
+            {
+                "categorie": "Elève"
+            },
+            {
+                "categorie": "Non-scolarisé"
+            }
+        ]
+    }
+]
