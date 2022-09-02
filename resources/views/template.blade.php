@@ -35,7 +35,7 @@
                                 <div class="borderBottom"></div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link menu-link" href="#" onclick="location.href='apropos.php';">À propos de nous</a>
+                                <a class="nav-link menu-link" href="{{route('apropos')}}" >À propos de nous</a>
                                 <div></div>
                             </li>
                             <li class="nav-item">

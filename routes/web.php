@@ -21,4 +21,4 @@ Route::get('/', function () {
 //route vers la page à propos
 Route::get('/apropos', function () {
     return view('apropos');
-});
+})->name('apropos');
