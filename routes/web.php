@@ -16,9 +16,14 @@ use Illuminate\Support\Facades\Route;
 //route acceuil
 Route::get('/', function () {
     return view('accueil');
-});
+})->name('accueil');
 
 //route vers la page à propos
 Route::get('/apropos', function () {
     return view('apropos');
 })->name('apropos');
+
+//route vers la page à propos
+Route::get('/nosoffres', function () {
+    return view('nosoffres');
+})->name('nosoffres');
