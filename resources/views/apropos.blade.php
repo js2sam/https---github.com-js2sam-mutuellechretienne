@@ -2,7 +2,7 @@
  
 @section('title', 'À propos de nous')
 
-@section('state_apropos', 'class="borderBottom"')
+@section('state_apropos', 'class=borderBottom')
 
 @section('state_apropos_active', 'active')
  

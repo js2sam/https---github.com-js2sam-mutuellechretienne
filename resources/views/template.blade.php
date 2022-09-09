@@ -701,11 +701,17 @@
     
     <!-- scripts -->
         <script src="public/assets/js/jquery-3.5.1.min.js"></script>
-        <script src="public/assets/js/jquery.dataTables.min.js" ></script>        
+        <script src="public/assets/js/jquery.dataTables.min.js" ></script>
         <script src="public/assets/bootstrap/js/popper.min.js"></script>
         <script src="public/assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="public/assets/js/bootstrap-cookie-consent-settings.js"></script>
         <script src="public/script/fonction.js"></script>
+        {{-- 
+                
+        
+        
+        
+         --}}
     <!-- scripts -->
     </body>
 </html>

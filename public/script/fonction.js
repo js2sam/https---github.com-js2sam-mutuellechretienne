@@ -49,14 +49,14 @@ $(document).on('show.bs.modal', '.modal', function () {
   }, 0);
 });
 
-//affichage des onglets au clique
-$('.nav-item .menu-link').on('click', function (event) {
-  event.preventDefault()
-  $('.navbar-nav').find('.menu-link').removeClass('active pb-0');
-  $('.navbar-nav').find('div').removeClass('borderBottom');
-  $(this).addClass('active pb-0');
-  $(this).next().addClass('borderBottom');
-})
+// //affichage des onglets au clique
+// $('.nav-item .menu-link').on('click', function (event) {
+//   event.preventDefault()
+//   $('.navbar-nav').find('.menu-link').removeClass('active pb-0');
+//   $('.navbar-nav').find('div').removeClass('borderBottom');
+//   $(this).addClass('active pb-0');
+//   $(this).next().addClass('borderBottom');
+// })
 
 //*************fonction menu mobile et autres fonction  executer au chargement de la page********* */
 $(document).ready(function () {

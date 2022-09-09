@@ -2,7 +2,7 @@
 
 @section('title', 'Accueil')
 
-@section('state_accueil', 'class="borderBottom"')
+@section('state_accueil', 'class=borderBottom')
 
 @section('state_accueil_active', 'active')
 
