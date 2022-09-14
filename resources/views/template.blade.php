@@ -3,16 +3,16 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
         <title> @yield('title')</title>
-        <link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="public/assets/fonts/fontawesome-all.min.css">
-        <link rel="stylesheet" href="public/assets/css/Navbar-Right-Links-icons.css">
-        <link rel="stylesheet" href="public/assets/css/styles.css">
-        <link rel="stylesheet" type="text/css" href="public/assets/css/contact.css">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+        <link rel="stylesheet" href="assets/css/Navbar-Right-Links-icons.css">
+        <link rel="stylesheet" href="assets/css/styles.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/contact.css">
         <!--     Fonts and icons from creative     -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-        <link rel="stylesheet" type="text/css" href="public/assets/css/styles0.css" />
-        <link rel="icon" type="image/png" sizes="16x16" href="public/img/favicon-16x16.png">
-        <link rel="stylesheet" href="public/assets/css/jquery.dataTables.min.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/styles0.css" />
+        <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+        <link rel="stylesheet" href="assets/css/jquery.dataTables.min.css">
     </head>
     <body style="background: rgba(255,255,255,0);">
     <!-- headers -->
@@ -23,7 +23,7 @@
             </nav>
             <nav class="navbar navbar-light navbar-expand-md shadow px-lg-5">
                 <div class="container-fluid">
-                    <img class="img-fluid" src="public/assets/img/pasteur.png" width="53" height="52">
+                    <img class="img-fluid" src="assets/img/pasteur.png" width="53" height="52">
                     <a class="navbar-brand d-none d-lg-block fs-6 fw-bold ms-1 text-primary" href="#">Mutuelle Chrétienne de Côte d'Ivoire
                     </a>
                     <a class="navbar-brand d-sm-none d-md-none d-lg-none fw-bold ms-1 text-primary" style="font-size: 0.8rem;" href="#">Mutuelle Chrétienne de Côte d'Ivoire
@@ -700,12 +700,12 @@
     <!-- modales -->
     
     <!-- scripts -->
-        <script src="public/assets/js/jquery-3.5.1.min.js"></script>
-        <script src="public/assets/js/jquery.dataTables.min.js" ></script>
-        <script src="public/assets/bootstrap/js/popper.min.js"></script>
-        <script src="public/assets/bootstrap/js/bootstrap.min.js"></script>
-        <script src="public/assets/js/bootstrap-cookie-consent-settings.js"></script>
-        <script src="public/script/fonction.js"></script>
+        <script src="assets/js/jquery-3.5.1.min.js"></script>
+        <script src="assets/js/jquery.dataTables.min.js" ></script>
+        <script src="assets/bootstrap/js/popper.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/js/bootstrap-cookie-consent-settings.js"></script>
+        <script src="script/fonction.js"></script>
         {{-- 
                 
         
