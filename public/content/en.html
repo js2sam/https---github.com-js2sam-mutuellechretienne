@@ -1,0 +1,68 @@
+<div class="modal-dialog modal-md shadow" role="document">
+    <div class="modal-content">
+        <div class="modal-header bg-color-secondary">
+            <h4 class="modal-title">Paramètres de confidentialité</h4>
+        </div>
+        <div class="modal-body">
+            <div class="bccs-body-text text-justify" style="font-size: 80%">
+                <!-- @formatter:off -->
+                <p>Nous utilisons des cookies et des technologies similaires nécessaires au fonctionnement du site Web.
+                    Les Cookies supplémentaires ne sont utilisés qu'avec votre consentement. Nous utilisons les cookies
+                    supplémentaires pour effectuer des analyses de l'utilisation du site Web et de vérifier l'efficacité des mesures de
+                    marketing. Ces analyses sont réalisées pour vous fournir une meilleure expérience utilisateur sur le site.
+                    Vous êtes libre de donner, de refuser ou de retirer votre consentement à tout moment en utilisant le lien « paramètres des cookies » en bas de
+                    chaque page. Vous pouvez consentir à notre utilisation de cookies en cliquant sur "Accepter". Pour plus d'informations sur la
+                    nature des informations collectées et la manière dont ils sont partagés avec nos partenaires.
+                <!-- @formatter:on -->
+            </div>
+            <p class="d-flex justify-content-between">
+                <a href="#">Mentions Legales</a>
+                <a href="#bccs-options" data-toggle="collapse">Mes options</a>
+            </p>
+            <div id="bccs-options" class="pl-4 collapse">
+                <div class="bccs-option" data-name="necessary">
+                    <div class="form-check mb-1">
+                        <input type="checkbox" checked disabled class="form-check-input" id="bccs-checkboxNecessary">
+                        <label class="form-check-label" for="bccs-checkboxNecessary"><b>Nécessaires</b></label>
+                    </div>
+                    <ul>
+                        <li>Obligatoires pour le fonctionnement du site web</li>
+                    </ul>
+                </div>
+                <div class="bccs-option" data-name="analyses">
+                    <div class="form-check mb-1">
+                        <input type="checkbox" class="form-check-input" id="bccs-checkboxAnalyses">
+                        <label class="form-check-label" for="bccs-checkboxAnalyses"><b>Analyses</b></label>
+                    </div>
+                    <ul>
+                        <li>Suivi de l'utilisation du site Web et optimisation de l'expérience utilisateur</li>
+                        <li>Évaluation des actions marketing</li>
+                    </ul>
+                </div>
+                <div class="bccs-option" data-name="personalization">
+                    <div class="form-check mb-1">
+                        <input type="checkbox" class="form-check-input" id="bccs-checkboxPersonalization">
+                        <label class="form-check-label" for="bccs-checkboxPersonalization"><b>Personalization</b></label>
+                    </div>
+                    <ul>
+                        <li>Stockage de vos préférences des visites précédentes</li>
+                        <li>Recueillir les commentaires des utilisateurs pour améliorer notre site Web</li>
+                        <li>Enregistrement de vos centres d'intérêt afin de fournir des contenus et des offres personnalisés</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button id="bccs-buttonDoNotAgree" type="button" class="btn btn-link text-decoration-none cookiesconfirmation">
+                Je refuse
+            </button>
+            <button id="bccs-buttonAgree" type="button"
+                class="btn bg-color-secondary cookiesconfirmation">J'accepte</button>
+            <button id="bccs-buttonSave" type="button" class="btn btn-outline-dark cookiesconfirmation">
+                Enregistrer les selections
+            </button>
+            <button id="bccs-buttonAgreeAll" type="button" class="btn bg-color-secondary cookiesconfirmation">J'accepte
+                tout</button>
+        </div>
+    </div>
+</div>

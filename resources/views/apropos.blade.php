@@ -10,7 +10,7 @@
     <div class="col-md-6 col-lg-8 flex-row pt-5 pe-0" id="containerlog">
         <div class="row">
             <div class="col position-relative">
-                <div><img class="img-fluid img-cross" src="public/assets/img/Group%202.png"></div>
+                <div><img class="img-fluid img-cross" src="assets/img/Group%202.png"></div>
                 <div class="position-absolute start-0 translate-middle-y w-100 titre-mutuelle p-lg-3">                            
                     <div class="ms-lg-2 ms-sm-0 text-primary d-flex justify-content-center">
                         <span class="titre-mutuelle-text1 d-none d-sm-flex d-md-flex me-3">À propos de nous</span>
@@ -35,6 +35,6 @@
         </div>
     </div>
     <div class="col-md-6 d-none d-md-flex d-lg-flex d-xl-flex d-xxl-flex col-lg-4">
-        <picture><img class="img-fluid" src="public/assets/img/index_solo1.png" width="500%" style="position: sticky; left: 127px;top: 147px;max-width: 125%;z-index: -1;"></picture>
+        <picture><img class="img-fluid" src="assets/img/index_solo1.png" width="500%" style="position: sticky; left: 127px;top: 147px;max-width: 125%;z-index: -1;"></picture>
     </div>
 @endsection
