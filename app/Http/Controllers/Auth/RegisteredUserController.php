@@ -35,13 +35,22 @@ class RegisteredUserController extends Controller
     {
         $request->validate([
             'name' => ['required', 'string', 'max:255'],
+            'firstname' => ['required', 'string', 'max:255'],
+            'contact' => ['required', 'string', 'max:10'],
+            'civilite' => ['required'],
+            // 'TypeMembreRegister' => ['required', 'string', 'max:255'],
             'email' => ['required', 'string', 'email', 'max:255', 'unique:users'],
             'password' => ['required', 'confirmed', Rules\Password::defaults()],
         ]);
 
         $user = User::create([
-            'name' => $request->name,
+            'nom' => $request->name,
+            'prenom' => $request->firstname,
+            'contact' => $request->contact,
+            'civilite' => $request->civilite,
+            'type_user' => $request->TypeMembreRegister,
             'email' => $request->email,
+            'current_team_id' => $this->ID(),
             'password' => Hash::make($request->password),
         ]);
 
@@ -50,5 +59,16 @@ class RegisteredUserController extends Controller
         Auth::login($user);
 
         return redirect(RouteServiceProvider::HOME);
+    }
+    public function ID()
+    {
+        # code...
+        $str = 'abcdefghijklmnopqrstuvwxyz01234567891011121314151617181920212223242526';
+
+        $shuffled = str_shuffle($str);
+        $shuffled = substr($shuffled,1,9);
+        $newid='SANTE'.strtoupper($shuffled);
+
+        return $newid;
     }
 }

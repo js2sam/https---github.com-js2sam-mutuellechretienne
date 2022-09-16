@@ -400,123 +400,123 @@ $('.validation_recuperation').on("click", function () {
 
 });
 
-//envoie du formulaire
+// //envoie du formulaire
 $(".inscription , .login , .formRecuperation").on("submit", function (e) {
   var typeform = $(this).attr('id');
   //$("#msg").html('<div class="alert alert-info"><i class="fa fa-spin fa-spinner"></i> Please wait...!</div>');
-  e.preventDefault();
-  $.ajax({
-    type: "POST",
-    url: "script/login_register.php",
-    data: new FormData(this), // Data sent to server, a set of key/value pairs (i.e. form fields and values)
-    contentType: false, // The content type used when sending data to the server.
-    cache: false, // To unable request pages to be cached
-    processData: false, // To send DOMDocument or non processed data file it is set to false
+  //e.preventDefault();
+  // $.ajax({
+  //   type: "POST",
+  //   url: "script/login_register.php",
+  //   data: new FormData(this), // Data sent to server, a set of key/value pairs (i.e. form fields and values)
+  //   contentType: false, // The content type used when sending data to the server.
+  //   cache: false, // To unable request pages to be cached
+  //   processData: false, // To send DOMDocument or non processed data file it is set to false
 
-    success: function (response) {
-      var jsonObjectConnect = JSON.parse(response);
-      //mise en cookies
-      setCookie('userinfo', response, 15);
-      //inscription----------------------------------------------------------------------
-      if (typeform == "formInscription") {
-        //en cas d'erreur sur le mot de passe et ou sur l'email
-        if (jsonObjectConnect.auth == 0) {
-          $("#msg").html(
-            '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Il y a une erreur dans le login ou le mot de passe, ou email à déja été utilisé</div>'
-          );
-        }
-        //en cas de validité des identifiants
-        if (jsonObjectConnect.auth == 1) {
-          //si inscription est pasteurs
-          if (jsonObjectConnect[0].type_user == "Pasteurs, Pretres et Fideles") {
-            choix("pasteursEtFideles", jsonObjectConnect);
-            //modification de l'url
-            window.history.pushState("", "", '/?register=true&produit=pasteursEtFideles');
-          }
-          //si inscription est eveques
-          if (jsonObjectConnect[0].type_user == "Eveques") {
-            choix("eveques", jsonObjectConnect);
-            //modification de l'url
-            window.history.pushState("", "", '/?register=true&produit=eveques');
-          }
-          //fermeture du modal
-          $('#LoginModalCenter').modal('hide');
-        }
-      }
-      //connexion----------------------------------------------------------------------
-      if (typeform == "formLogin") {
-        if (jsonObjectConnect.auth == 1) {
-          //verification si le premier paiement n'est pas effectuer et n'est pas arriver à l'etape de paiement
-          if (jsonObjectConnect[0].premiere_fois == 'oui' || JSON.parse(getCookie('CookiesUsersData')).stepZone!=='2') {
-            //si individu pasteurs.......
-            if (jsonObjectConnect[0].type_user == "Pasteurs, Pretres et Fideles") {
-              choix("pasteursEtFideles", jsonObjectConnect);
-              //modification de l'url
-              window.history.pushState("", "", '?login=true&produit=pasteursEtFideles');
-            }
-            //si individu eveques........
-            if (jsonObjectConnect[0].type_user == "Eveques") {
-              choix("eveques", jsonObjectConnect);
-              //modification de l'url
-              window.history.pushState("", "", '?login=true&produit=eveques');
-            }
-          } 
-          //sinon on le conduit vers la suite du paiement
-            if (jsonObjectConnect[0].premiere_fois=='non' || JSON.parse(getCookie('CookiesUsersData')).stepZone=='2') {
-              choix("suitePaie", jsonObjectConnect);
-              //modification de l'url
-              window.history.pushState("", "", '?login=true&produit=suitePaie');
-          }
-          //fermeture du modal
-          $('#LoginModalCenter').modal('hide');
-        } else {
-          $("#msg2").html(
-            '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Il y a une erreur dans le login et ou le mot de passe.</div>'
-          );
-        }
-      }
-      //si recuperation des access oubliés
-      if (typeform == "formRecuperation") {
-        //si recuperation incorrecte
-        if (jsonObjectConnect.auth == 0) {
-          $("#msgrecuperation").html(
-            '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Il y a une erreur dans le email ce dernier n\'existe pas</div>'
-          );
-          $(".zonerecup").addClass('d-none');
-        }
-        //si recuperation correcte
-        if (jsonObjectConnect.auth == 1 && jsonObjectConnect.pass == 1) {
-          $("#msgrecuperation").html(
-            '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Un code de recuperation vous à été envoyé à l\'email indiqué, merci de le renseigner en dessous</div>'
-          );
-          $(".zonerecup").removeClass('d-none');
-          $('.validation_recuperation').data('name', 'confirmation');
+  //   success: function (response) {
+  //     var jsonObjectConnect = JSON.parse(response);
+  //     //mise en cookies
+  //     setCookie('userinfo', response, 15);
+  //     //inscription----------------------------------------------------------------------
+  //     if (typeform == "formInscription") {
+  //       //en cas d'erreur sur le mot de passe et ou sur l'email
+  //       if (jsonObjectConnect.auth == 0) {
+  //         $("#msg").html(
+  //           '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Il y a une erreur dans le login ou le mot de passe, ou email à déja été utilisé</div>'
+  //         );
+  //       }
+  //       //en cas de validité des identifiants
+  //       if (jsonObjectConnect.auth == 1) {
+  //         //si inscription est pasteurs
+  //         if (jsonObjectConnect[0].type_user == "Pasteurs, Pretres et Fideles") {
+  //           choix("pasteursEtFideles", jsonObjectConnect);
+  //           //modification de l'url
+  //           window.history.pushState("", "", '/?register=true&produit=pasteursEtFideles');
+  //         }
+  //         //si inscription est eveques
+  //         if (jsonObjectConnect[0].type_user == "Eveques") {
+  //           choix("eveques", jsonObjectConnect);
+  //           //modification de l'url
+  //           window.history.pushState("", "", '/?register=true&produit=eveques');
+  //         }
+  //         //fermeture du modal
+  //         $('#LoginModalCenter').modal('hide');
+  //       }
+  //     }
+  //     //connexion----------------------------------------------------------------------
+  //     if (typeform == "formLogin") {
+  //       if (jsonObjectConnect.auth == 1) {
+  //         //verification si le premier paiement n'est pas effectuer et n'est pas arriver à l'etape de paiement
+  //         if (jsonObjectConnect[0].premiere_fois == 'oui' || JSON.parse(getCookie('CookiesUsersData')).stepZone!=='2') {
+  //           //si individu pasteurs.......
+  //           if (jsonObjectConnect[0].type_user == "Pasteurs, Pretres et Fideles") {
+  //             choix("pasteursEtFideles", jsonObjectConnect);
+  //             //modification de l'url
+  //             window.history.pushState("", "", '?login=true&produit=pasteursEtFideles');
+  //           }
+  //           //si individu eveques........
+  //           if (jsonObjectConnect[0].type_user == "Eveques") {
+  //             choix("eveques", jsonObjectConnect);
+  //             //modification de l'url
+  //             window.history.pushState("", "", '?login=true&produit=eveques');
+  //           }
+  //         } 
+  //         //sinon on le conduit vers la suite du paiement
+  //           if (jsonObjectConnect[0].premiere_fois=='non' || JSON.parse(getCookie('CookiesUsersData')).stepZone=='2') {
+  //             choix("suitePaie", jsonObjectConnect);
+  //             //modification de l'url
+  //             window.history.pushState("", "", '?login=true&produit=suitePaie');
+  //         }
+  //         //fermeture du modal
+  //         $('#LoginModalCenter').modal('hide');
+  //       } else {
+  //         $("#msg2").html(
+  //           '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Il y a une erreur dans le login et ou le mot de passe.</div>'
+  //         );
+  //       }
+  //     }
+  //     //si recuperation des access oubliés
+  //     if (typeform == "formRecuperation") {
+  //       //si recuperation incorrecte
+  //       if (jsonObjectConnect.auth == 0) {
+  //         $("#msgrecuperation").html(
+  //           '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Il y a une erreur dans le email ce dernier n\'existe pas</div>'
+  //         );
+  //         $(".zonerecup").addClass('d-none');
+  //       }
+  //       //si recuperation correcte
+  //       if (jsonObjectConnect.auth == 1 && jsonObjectConnect.pass == 1) {
+  //         $("#msgrecuperation").html(
+  //           '<div class="alert alert-info"><i class="fa fa-exclamation-triangle"></i> Un code de recuperation vous à été envoyé à l\'email indiqué, merci de le renseigner en dessous</div>'
+  //         );
+  //         $(".zonerecup").removeClass('d-none');
+  //         $('.validation_recuperation').data('name', 'confirmation');
 
-        }
-        //si recuperation validé
-        if (jsonObjectConnect.auth == 1 && jsonObjectConnect.email !== "") {
-          //verification si la premier paiement n'est pas effectuer
-          if (jsonObjectConnect[0].premiere_fois == 'oui') {
-            if (jsonObjectConnect[0].type_user == "Pasteurs, Pretres et Fideles") {
-              choix("pasteursEtFideles", jsonObjectConnect);
-            }
-            if (jsonObjectConnect[0].type_user == "Eveques") {
-              choix("eveques", jsonObjectConnect);
-            }
-          } else {
-            choix("suitePaie", jsonObjectConnect);
+  //       }
+  //       //si recuperation validé
+  //       if (jsonObjectConnect.auth == 1 && jsonObjectConnect.email !== "") {
+  //         //verification si la premier paiement n'est pas effectuer
+  //         if (jsonObjectConnect[0].premiere_fois == 'oui') {
+  //           if (jsonObjectConnect[0].type_user == "Pasteurs, Pretres et Fideles") {
+  //             choix("pasteursEtFideles", jsonObjectConnect);
+  //           }
+  //           if (jsonObjectConnect[0].type_user == "Eveques") {
+  //             choix("eveques", jsonObjectConnect);
+  //           }
+  //         } else {
+  //           choix("suitePaie", jsonObjectConnect);
 
-          }
-          //fermeture du modal
-          $('#recoverModal').modal('hide');
-        }
-      }
-    },
-    error: function (response) {
-      console.log(response);
-      //$("#msg").html('<div class="alert alert-danger"><i class="fa fa-exclamation-triangle"></i> Il y a eu un problème.</div>');
-    }
-  });
+  //         }
+  //         //fermeture du modal
+  //         $('#recoverModal').modal('hide');
+  //       }
+  //     }
+  //   },
+  //   error: function (response) {
+  //     console.log(response);
+  //     //$("#msg").html('<div class="alert alert-danger"><i class="fa fa-exclamation-triangle"></i> Il y a eu un problème.</div>');
+  //   }
+  // });
 });
 
 /*********************selection de mode de paiement */

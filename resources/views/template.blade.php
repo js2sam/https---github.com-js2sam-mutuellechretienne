@@ -476,8 +476,10 @@
                         <div class="tab-content" id="myTabContent">
                             <!-- zone inscription -->
                             <div class="tab-pane fade show active" id="inscription" role="tabpanel" aria-labelledby="inscription-tab"> 
-                                <div id="msg"></div>                  
-                                <form class="inscription" id="formInscription" action="" method="post" enctype="multipart/form-data" onSubmit="return false;">
+                                <div id="msg"></div>  
+                                                                
+                                <form class="inscription" id="formInscription" action="{{ route('register') }}" method="post" enctype="multipart/form-data">
+                                    @csrf
                                     <div class="row">
                                         <div class="col-lg-6 pr-0">Inscription en tant que :</div>
                                         <div class="col-lg-6"><input name="TypeMembreRegister" id="TypeMembreRegister" type="text" class="form-control form-control-sm" readonly/></div>                        
@@ -519,17 +521,17 @@
                                         </div>
                                         <div class="col-lg-6">
                                             <label class="text-dark" for="exampleInputEmail1">E-mail <span class="text-danger font-weight-bold">*</span></label>
-                                            <input name="r_email" id="r_email" type="email" class="form-control form-control-sm email_item" autocomplete="off" required/>
+                                            <input name="email" id="r_email" type="email" class="form-control form-control-sm email_item" autocomplete="off" required/>
                                         </div>                        
                                     </div>                    
                                     <div class="row mt-3">
                                         <div class="col-lg-6">
                                             <label class="text-dark" for="exampleInputEmail1">Mot de passe <span class="text-danger font-weight-bold">*</span></label>
-                                            <input name="r_password" id="r_password" type="password" class="form-control form-control-sm" autocomplete="off" required/>
+                                            <input name="password" id="r_password" type="password" class="form-control form-control-sm" autocomplete="off" required/>
                                         </div>
                                         <div class="col-lg-6">
                                             <label class="text-dark" for="exampleInputEmail1">Confirmer mot de passe <span class="text-danger font-weight-bold">*</span></label>
-                                            <input name="password_verif" id="password_verif" type="password" class="form-control form-control-sm" autocomplete="off" required/>
+                                            <input name="password_confirmation" id="password_verif" type="password" class="form-control form-control-sm" autocomplete="off" required/>
                                         </div>                        
                                     </div>
                                     <div class="row mt-3 p-3">
@@ -541,6 +543,7 @@
                                         </div>                   
                                     </div>
                                 </form>
+                
                                 <div class="row flex-nowrap mt-3">
                                     <div class="col-lg-12 d-flex justify-content-between">
                                         <button type="button" class="btn text-white bg-secondary" data-bs-dismiss="modal">Fermer</button>                                    
@@ -551,17 +554,18 @@
                             <!-- zone connexion -->
                             <div class="tab-pane fade" id="login" role="tabpanel" aria-labelledby="login-tab">
                                 <div id="msg2"></div>
-                                <form class="login" id="formLogin" action="" method="post" enctype="multipart/form-data" onSubmit="return false;">
+                                <form class="login"  action="{{ route('login') }}" method="POST" >
+                                    @csrf
                                     <div class="row pl-3">
                                         <div class="col-lg-12 col-md-6  form-group">
                                             <label for="exampleInputEmail1">E-mail</label>
-                                            <input type="email" name="l_email" id="l_email" class="form-control form-control-sm" id="exampleInputEmail1">                        
+                                            <input type="email" name="email" id="l_email" class="form-control form-control-sm" id="exampleInputEmail1">                        
                                         </div>
                                     </div>
                                     <div class="row pl-3">
                                         <div class="col-lg-12 col-md-6 form-group">
                                             <label for="exampleInputPassword1">Mot de passe</label>
-                                            <input type="password" name="lpassword" id="lpassword" class="form-control form-control-sm" id="exampleInputPassword1">
+                                            <input type="password" name="password" id="lpassword" class="form-control form-control-sm" id="exampleInputPassword1">
                                         </div>
                                     </div>
                                     <div class="row p-2">
@@ -573,14 +577,14 @@
                                             <a href="#recuperation" data-bs-toggle="modal" data-bs-target="#recoverModal">Mot de passe oublié</a>
                                         </div>                   
                                     </div>
+                                    <div class="row flex-nowrap mt-3">
+                                        <div class="col-lg-12 d-flex justify-content-between">
+                                            <button type="button" class="btn text-white bg-secondary" data-bs-dismiss="modal">Fermer</button>            
+                                        
+                                            <button type="button" class="btn text-white bg-primary validation_l">Login</button>
+                                        </div>                        
+                                    </div>                   
                                 </form>
-                                <div class="row flex-nowrap mt-3">
-                                    <div class="col-lg-12 d-flex justify-content-between">
-                                        <button type="button" class="btn text-white bg-secondary" data-bs-dismiss="modal">Fermer</button>            
-                                    
-                                        <button type="button" class="btn text-white bg-primary validation_l">Login</button>
-                                    </div>                        
-                                </div>                   
                             </div>
                         </div>
                     </div>
@@ -706,12 +710,17 @@
         <script src="assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="assets/js/bootstrap-cookie-consent-settings.js"></script>
         <script src="script/fonction.js"></script>
-        {{-- 
-                
-        
-        
-        
-         --}}
+        <script>
+            //transfert des informations dans le register
+            $('#LoginModalCenter').on('show.bs.modal', function (event) {
+                var button = $(event.relatedTarget) ;// Button that triggered the modal
+                var recipient = button.data('titre'); // Extract info from data-* attributes
+                // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+                // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+                var modal = $(this);
+                modal.find('.modal-body #TypeMembreRegister').val(recipient);
+            });
+        </script>
     <!-- scripts -->
     </body>
 </html>
